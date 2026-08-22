@@ -1,8 +1,6 @@
 # READING COPY — R1_persona_GPTo3_n1_ZoraNovakova
 
-*This is a derivative for uninterrupted reading. GPT-o3 generated this persona with a citation apparatus — superscript markers pointing at the three Phase 1 research reports it was given, listed by uploaded-file ID at the end of the verbatim file — and the export scattered those markers into the running text. This copy removes, by a deterministic script in the repository build, the citation-marker fragments and the trailing reference block, and changes nothing else. The citable record is the verbatim file beside this one; the citation apparatus itself is part of the study's data (a model footnoting an invented biography against its source reports).*
-
-# R1_persona_GPTo3_n1_ZoraNovakova
+*Derivative for uninterrupted reading, produced by a deterministic script in the repository build; nothing else is changed, and the citable record is the verbatim file beside this one (the removed apparatus is itself part of the study's data). GPT-o3 generated this persona with a citation apparatus — superscript markers pointing at the three Phase 1 research reports it was given, listed by uploaded-file ID at the end of the verbatim file — and the export scattered those markers into the running text. This copy removes the marker fragments and the trailing reference block.*
 
 **Zora Novakova** 
 
@@ -165,4 +163,4 @@ through language itself . In sum, her technical prowess lies in marrying form an
 Zora Novakova’s legacy is that of a writer who not only created extraordinary literature but also illuminated *why* literature matters. Her life and work have become a modern exemplar of how great writers are formed – frequently cited in studies of literary mastery for showcasing the convergence of 
 early immersion, outsider perspective, relentless practice, and courageous originality . For readers, her novels opened windows into the emotional realities of exile, memory, and identity, fostering empathy across cultures. For writers, she expanded the toolkit of prose; her successful experiments (like sustained second-person narration and mosaic narrative structures) have inspired a new generation to push creative boundaries. Many emerging authors, especially from multilingual and immigrant backgrounds, view Novakova as a trailblazer who proved that one’s “otherness” can be a source of strength and innovation in storytelling. In her home country and her adoptive one alike, her works are studied in schools as classics of late 20th-century and early 21st-century literature. Perhaps her greatest legacy lies in her demonstration that exceptional prose is not an accident of genius but the result of *dedication, depth of insight, and authenticity*. Zora Novakova showed the world that with the right conditions – and an unwavering commitment to truth in language – a solitary writer can indeed 
 
-enchant readers and even, in her words, “bridge the silence between then and now.”
+enchant readers and even, in her words, “bridge the silence between then and now.”   
