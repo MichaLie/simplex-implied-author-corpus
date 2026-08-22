@@ -1,0 +1,21 @@
+label,story_id,criterion,human_mean,llm_mean,human_minus_llm
+A,S_02,Literary Merit,4.6,8.8,-4.2
+A,S_02,Originality,4.6,7.7333,-3.1333
+A,S_02,Emotional Impact,4.2,8.2,-4.0
+A,S_02,Thematic Depth,3.8,8.8,-5.0
+A,S_02,Structural Craft,4.6,8.4667,-3.8667
+B,S_06,Literary Merit,5,8.8,-3.8
+B,S_06,Originality,5.2,8.2667,-3.0667
+B,S_06,Emotional Impact,5.6,8.8667,-3.2667
+B,S_06,Thematic Depth,2.6,9.0,-6.4
+B,S_06,Structural Craft,2.6,8.3333,-5.7333
+C,S_07,Literary Merit,7,7.2667,-0.2667
+C,S_07,Originality,5.8,6.2,-0.4
+C,S_07,Emotional Impact,6.8,7.4,-0.6
+C,S_07,Thematic Depth,6.2,7.0667,-0.8667
+C,S_07,Structural Craft,6.6,7.0,-0.4
+D,S_04,Literary Merit,4.8,5.4,-0.6
+D,S_04,Originality,4.6,4.6667,-0.0667
+D,S_04,Emotional Impact,4.2,4.2,0.0
+D,S_04,Thematic Depth,4.6,5.4667,-0.8667
+D,S_04,Structural Craft,3.8,4.4667,-0.6667

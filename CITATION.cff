@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the paper below (preferred-citation). Citation details will be finalized upon acceptance."
+title: "SIMPLEX — What a Machine Takes Literary Greatness to Be: data, prompts, corpus, and analysis"
+type: dataset
+authors:
+  - family-names: "Liegertová"
+    given-names: "Michaela"
+    affiliation: "Faculty of Science, Jan Evangelista Purkyně University, Ústí nad Labem"
+  - family-names: "Rosa"
+    given-names: "Rudolf"
+    affiliation: "Faculty of Mathematics and Physics, Charles University, Prague"
+  - family-names: "Víta"
+    given-names: "Martin"
+    affiliation: "Institute of Computer Science, Czech Academy of Sciences, Prague"
+  - family-names: "Piorecký"
+    given-names: "Karel"
+    affiliation: "Institute of Czech Literature, Czech Academy of Sciences, Prague"
+repository-code: "https://github.com/MichaLie/simplex-implied-author-corpus"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "What a Machine Takes Literary Greatness to Be: The Implied Author of Generative Literature"
+  authors:
+    - family-names: "Liegertová"
+      given-names: "Michaela"
+    - family-names: "Rosa"
+      given-names: "Rudolf"
+    - family-names: "Víta"
+      given-names: "Martin"
+    - family-names: "Piorecký"
+      given-names: "Karel"
+  journal: "Cambridge Forum on AI: Culture and Society"
+  year: 2026
+  notes: "Under review (themed issue: Ethics and Aesthetics of generative AI, Arielli & D'Isa, eds.). Volume, pages, and DOI will be added upon acceptance."

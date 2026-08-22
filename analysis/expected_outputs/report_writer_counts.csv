@@ -1,0 +1,7 @@
+report_id,run,model,n_masters_named,n_male_masters,n_female_masters,pct_female_masters,n_EE_Balkan,n_Western_EU,n_N_American,n_African_dia,n_MENA,n_Latin_AmA,n_E_Asian,n_S_Asian
+R1_GPTo3,R1,GPTo3,14,9,5,35.7,1,3,6,2,0,2,0,0
+R1_Opus4,R1,Opus4,10,7,3,30.0,1,1,3,3,0,2,0,0
+R1_Gemini25,R1,Gemini25,18,13,5,27.8,4,6,4,2,0,2,0,0
+R2_GPT55,R2,GPT55,16,13,3,18.8,2,5,5,2,0,2,0,0
+R2_Opus47,R2,Opus47,30,24,6,20.0,4,8,14,2,0,2,0,0
+R2_Gemini31,R2,Gemini31,15,12,3,20.0,1,5,4,2,0,2,0,1

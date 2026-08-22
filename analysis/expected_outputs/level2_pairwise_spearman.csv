@@ -1,0 +1,11 @@
+llm_a,llm_b,spearman_rho
+Claude-Opus-47,GPT-55,0.9048
+Claude-Opus-47,Gemini-31-Pro,0.9286
+Claude-Opus-47,Grok-43,0.6108
+Claude-Opus-47,Kimi-26,0.9048
+GPT-55,Gemini-31-Pro,0.8095
+GPT-55,Grok-43,0.7306
+GPT-55,Kimi-26,0.9286
+Gemini-31-Pro,Grok-43,0.6467
+Gemini-31-Pro,Kimi-26,0.881
+Grok-43,Kimi-26,0.8503

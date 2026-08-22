@@ -1,0 +1,529 @@
+report_id,run,model,writer,gender,region,role,present
+R1_GPTo3,R1,GPTo3,Nabokov,M,EE_Balkan,master,1
+R1_GPTo3,R1,GPTo3,Tolstoy,M,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Joseph Conrad,M,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Kafka,M,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Dostoyevsky,M,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Chekhov,M,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Sebald,M,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Krasznahorkai,M,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Bernhard,M,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Andrić,M,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Saul Bellow,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,Bruno Schulz,M,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Joyce,M,Western_EU,master,1
+R1_GPTo3,R1,GPTo3,Proust,M,Western_EU,master,1
+R1_GPTo3,R1,GPTo3,Flaubert,M,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Beckett,M,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Orwell,M,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Dickens,M,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Henry James,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,Faulkner,M,N_American,master,1
+R1_GPTo3,R1,GPTo3,Hemingway,M,N_American,master,1
+R1_GPTo3,R1,GPTo3,McCarthy,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,DeLillo,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,Fitzgerald,M,N_American,master,1
+R1_GPTo3,R1,GPTo3,Melville,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,Thompson,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,Saunders,M,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Pynchon,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,Kerouac,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,E.B. White,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,García Márquez,M,Latin_AmA,master,1
+R1_GPTo3,R1,GPTo3,Borges,M,Latin_AmA,master,1
+R1_GPTo3,R1,GPTo3,Baldwin,M,African_dia,master,1
+R1_GPTo3,R1,GPTo3,Achebe,M,African_dia,master,0
+R1_GPTo3,R1,GPTo3,Coetzee,M,African_dia,master,0
+R1_GPTo3,R1,GPTo3,Naipaul,M,S_Asian,master,0
+R1_GPTo3,R1,GPTo3,Darwish,M,MENA,master,0
+R1_GPTo3,R1,GPTo3,Adonis,M,MENA,master,0
+R1_GPTo3,R1,GPTo3,Morrison,F,African_dia,master,1
+R1_GPTo3,R1,GPTo3,Jesmyn Ward,F,African_dia,comparison,0
+R1_GPTo3,R1,GPTo3,Woolf,F,Western_EU,master,1
+R1_GPTo3,R1,GPTo3,Austen,F,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Penelope Fitzgerald,F,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Frank McCourt,M,N_American,master,0
+R1_GPTo3,R1,GPTo3,Selma Lagerlöf,F,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Sally Rooney,F,Western_EU,comparison,0
+R1_GPTo3,R1,GPTo3,Yourcenar,F,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Annie Ernaux,F,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Edith Södergran,F,Western_EU,master,0
+R1_GPTo3,R1,GPTo3,Didion,F,N_American,master,1
+R1_GPTo3,R1,GPTo3,Flannery O'Connor,F,N_American,master,0
+R1_GPTo3,R1,GPTo3,Sontag,F,N_American,master,1
+R1_GPTo3,R1,GPTo3,Le Guin,F,N_American,master,1
+R1_GPTo3,R1,GPTo3,Bishop,F,N_American,master,0
+R1_GPTo3,R1,GPTo3,Munro,F,N_American,master,0
+R1_GPTo3,R1,GPTo3,Lauren Groff,F,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Tokarczuk,F,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Müller,F,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Alexievich,F,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Tsvetaeva,F,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Akhmatova,F,EE_Balkan,master,0
+R1_GPTo3,R1,GPTo3,Han Kang,F,E_Asian,master,0
+R1_GPTo3,R1,GPTo3,Min Jin Lee,F,E_Asian,comparison,0
+R1_GPTo3,R1,GPTo3,Clarice Lispector,F,Latin_AmA,master,0
+R1_GPTo3,R1,GPTo3,Dan Brown,M,N_American,comparison,1
+R1_GPTo3,R1,GPTo3,Grisham,M,N_American,comparison,1
+R1_GPTo3,R1,GPTo3,James Patterson,M,N_American,comparison,1
+R1_GPTo3,R1,GPTo3,Crichton,M,N_American,comparison,1
+R1_GPTo3,R1,GPTo3,Clancy,M,N_American,comparison,1
+R1_GPTo3,R1,GPTo3,Stephen King,M,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Nicholas Sparks,M,N_American,comparison,1
+R1_GPTo3,R1,GPTo3,Lee Child,M,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Connelly,M,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Baldacci,M,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Matt Haig,M,Western_EU,comparison,0
+R1_GPTo3,R1,GPTo3,Rowling,F,Western_EU,comparison,1
+R1_GPTo3,R1,GPTo3,Stephenie Meyer,F,N_American,comparison,1
+R1_GPTo3,R1,GPTo3,Jodi Picoult,F,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Emily Henry,F,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Taylor Jenkins Reid,F,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Kristin Hannah,F,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Paula Hawkins,F,Western_EU,comparison,0
+R1_GPTo3,R1,GPTo3,Liane Moriarty,F,Western_EU,comparison,0
+R1_GPTo3,R1,GPTo3,Ruth Ware,F,Western_EU,comparison,0
+R1_GPTo3,R1,GPTo3,Jojo Moyes,F,Western_EU,comparison,0
+R1_GPTo3,R1,GPTo3,Rebecca Yarros,F,N_American,comparison,0
+R1_GPTo3,R1,GPTo3,Colson Whitehead,M,African_dia,comparison,0
+R1_GPTo3,R1,GPTo3,Anthony Doerr,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Nabokov,M,EE_Balkan,master,1
+R1_Opus4,R1,Opus4,Tolstoy,M,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Joseph Conrad,M,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Kafka,M,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Dostoyevsky,M,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Chekhov,M,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Sebald,M,Western_EU,master,0
+R1_Opus4,R1,Opus4,Krasznahorkai,M,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Bernhard,M,Western_EU,master,0
+R1_Opus4,R1,Opus4,Andrić,M,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Saul Bellow,M,N_American,master,0
+R1_Opus4,R1,Opus4,Bruno Schulz,M,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Joyce,M,Western_EU,master,0
+R1_Opus4,R1,Opus4,Proust,M,Western_EU,master,0
+R1_Opus4,R1,Opus4,Flaubert,M,Western_EU,master,0
+R1_Opus4,R1,Opus4,Beckett,M,Western_EU,master,0
+R1_Opus4,R1,Opus4,Orwell,M,Western_EU,master,0
+R1_Opus4,R1,Opus4,Dickens,M,Western_EU,master,0
+R1_Opus4,R1,Opus4,Henry James,M,N_American,master,1
+R1_Opus4,R1,Opus4,Faulkner,M,N_American,master,0
+R1_Opus4,R1,Opus4,Hemingway,M,N_American,master,1
+R1_Opus4,R1,Opus4,McCarthy,M,N_American,master,0
+R1_Opus4,R1,Opus4,DeLillo,M,N_American,master,0
+R1_Opus4,R1,Opus4,Fitzgerald,M,N_American,master,0
+R1_Opus4,R1,Opus4,Melville,M,N_American,master,0
+R1_Opus4,R1,Opus4,Thompson,M,N_American,master,0
+R1_Opus4,R1,Opus4,Saunders,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Pynchon,M,N_American,master,0
+R1_Opus4,R1,Opus4,Kerouac,M,N_American,master,0
+R1_Opus4,R1,Opus4,E.B. White,M,N_American,master,0
+R1_Opus4,R1,Opus4,García Márquez,M,Latin_AmA,master,1
+R1_Opus4,R1,Opus4,Borges,M,Latin_AmA,master,1
+R1_Opus4,R1,Opus4,Baldwin,M,African_dia,master,1
+R1_Opus4,R1,Opus4,Achebe,M,African_dia,master,1
+R1_Opus4,R1,Opus4,Coetzee,M,African_dia,master,0
+R1_Opus4,R1,Opus4,Naipaul,M,S_Asian,master,0
+R1_Opus4,R1,Opus4,Darwish,M,MENA,master,0
+R1_Opus4,R1,Opus4,Adonis,M,MENA,master,0
+R1_Opus4,R1,Opus4,Morrison,F,African_dia,master,1
+R1_Opus4,R1,Opus4,Jesmyn Ward,F,African_dia,comparison,0
+R1_Opus4,R1,Opus4,Woolf,F,Western_EU,master,1
+R1_Opus4,R1,Opus4,Austen,F,Western_EU,master,0
+R1_Opus4,R1,Opus4,Penelope Fitzgerald,F,Western_EU,master,0
+R1_Opus4,R1,Opus4,Frank McCourt,M,N_American,master,0
+R1_Opus4,R1,Opus4,Selma Lagerlöf,F,Western_EU,master,0
+R1_Opus4,R1,Opus4,Sally Rooney,F,Western_EU,comparison,0
+R1_Opus4,R1,Opus4,Yourcenar,F,Western_EU,master,0
+R1_Opus4,R1,Opus4,Annie Ernaux,F,Western_EU,master,0
+R1_Opus4,R1,Opus4,Edith Södergran,F,Western_EU,master,0
+R1_Opus4,R1,Opus4,Didion,F,N_American,master,1
+R1_Opus4,R1,Opus4,Flannery O'Connor,F,N_American,master,0
+R1_Opus4,R1,Opus4,Sontag,F,N_American,master,0
+R1_Opus4,R1,Opus4,Le Guin,F,N_American,master,0
+R1_Opus4,R1,Opus4,Bishop,F,N_American,master,0
+R1_Opus4,R1,Opus4,Munro,F,N_American,master,0
+R1_Opus4,R1,Opus4,Lauren Groff,F,N_American,comparison,0
+R1_Opus4,R1,Opus4,Tokarczuk,F,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Müller,F,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Alexievich,F,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Tsvetaeva,F,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Akhmatova,F,EE_Balkan,master,0
+R1_Opus4,R1,Opus4,Han Kang,F,E_Asian,master,0
+R1_Opus4,R1,Opus4,Min Jin Lee,F,E_Asian,comparison,0
+R1_Opus4,R1,Opus4,Clarice Lispector,F,Latin_AmA,master,0
+R1_Opus4,R1,Opus4,Dan Brown,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Grisham,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,James Patterson,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Crichton,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Clancy,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Stephen King,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Nicholas Sparks,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Lee Child,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Connelly,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Baldacci,M,N_American,comparison,0
+R1_Opus4,R1,Opus4,Matt Haig,M,Western_EU,comparison,0
+R1_Opus4,R1,Opus4,Rowling,F,Western_EU,comparison,0
+R1_Opus4,R1,Opus4,Stephenie Meyer,F,N_American,comparison,0
+R1_Opus4,R1,Opus4,Jodi Picoult,F,N_American,comparison,0
+R1_Opus4,R1,Opus4,Emily Henry,F,N_American,comparison,0
+R1_Opus4,R1,Opus4,Taylor Jenkins Reid,F,N_American,comparison,0
+R1_Opus4,R1,Opus4,Kristin Hannah,F,N_American,comparison,0
+R1_Opus4,R1,Opus4,Paula Hawkins,F,Western_EU,comparison,0
+R1_Opus4,R1,Opus4,Liane Moriarty,F,Western_EU,comparison,0
+R1_Opus4,R1,Opus4,Ruth Ware,F,Western_EU,comparison,0
+R1_Opus4,R1,Opus4,Jojo Moyes,F,Western_EU,comparison,0
+R1_Opus4,R1,Opus4,Rebecca Yarros,F,N_American,comparison,0
+R1_Opus4,R1,Opus4,Colson Whitehead,M,African_dia,comparison,0
+R1_Opus4,R1,Opus4,Anthony Doerr,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Nabokov,M,EE_Balkan,master,1
+R1_Gemini25,R1,Gemini25,Tolstoy,M,EE_Balkan,master,1
+R1_Gemini25,R1,Gemini25,Joseph Conrad,M,EE_Balkan,master,1
+R1_Gemini25,R1,Gemini25,Kafka,M,EE_Balkan,master,1
+R1_Gemini25,R1,Gemini25,Dostoyevsky,M,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Chekhov,M,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Sebald,M,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Krasznahorkai,M,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Bernhard,M,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Andrić,M,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Saul Bellow,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,Bruno Schulz,M,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Joyce,M,Western_EU,master,1
+R1_Gemini25,R1,Gemini25,Proust,M,Western_EU,master,1
+R1_Gemini25,R1,Gemini25,Flaubert,M,Western_EU,master,1
+R1_Gemini25,R1,Gemini25,Beckett,M,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Orwell,M,Western_EU,master,1
+R1_Gemini25,R1,Gemini25,Dickens,M,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Henry James,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,Faulkner,M,N_American,master,1
+R1_Gemini25,R1,Gemini25,Hemingway,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,McCarthy,M,N_American,master,1
+R1_Gemini25,R1,Gemini25,DeLillo,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,Fitzgerald,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,Melville,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,Thompson,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,Saunders,M,N_American,comparison,1
+R1_Gemini25,R1,Gemini25,Pynchon,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,Kerouac,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,E.B. White,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,García Márquez,M,Latin_AmA,master,1
+R1_Gemini25,R1,Gemini25,Borges,M,Latin_AmA,master,1
+R1_Gemini25,R1,Gemini25,Baldwin,M,African_dia,master,1
+R1_Gemini25,R1,Gemini25,Achebe,M,African_dia,master,0
+R1_Gemini25,R1,Gemini25,Coetzee,M,African_dia,master,0
+R1_Gemini25,R1,Gemini25,Naipaul,M,S_Asian,master,0
+R1_Gemini25,R1,Gemini25,Darwish,M,MENA,master,0
+R1_Gemini25,R1,Gemini25,Adonis,M,MENA,master,0
+R1_Gemini25,R1,Gemini25,Morrison,F,African_dia,master,1
+R1_Gemini25,R1,Gemini25,Jesmyn Ward,F,African_dia,comparison,1
+R1_Gemini25,R1,Gemini25,Woolf,F,Western_EU,master,1
+R1_Gemini25,R1,Gemini25,Austen,F,Western_EU,master,1
+R1_Gemini25,R1,Gemini25,Penelope Fitzgerald,F,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Frank McCourt,M,N_American,master,0
+R1_Gemini25,R1,Gemini25,Selma Lagerlöf,F,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Sally Rooney,F,Western_EU,comparison,1
+R1_Gemini25,R1,Gemini25,Yourcenar,F,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Annie Ernaux,F,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Edith Södergran,F,Western_EU,master,0
+R1_Gemini25,R1,Gemini25,Didion,F,N_American,master,1
+R1_Gemini25,R1,Gemini25,Flannery O'Connor,F,N_American,master,1
+R1_Gemini25,R1,Gemini25,Sontag,F,N_American,master,0
+R1_Gemini25,R1,Gemini25,Le Guin,F,N_American,master,0
+R1_Gemini25,R1,Gemini25,Bishop,F,N_American,master,0
+R1_Gemini25,R1,Gemini25,Munro,F,N_American,master,0
+R1_Gemini25,R1,Gemini25,Lauren Groff,F,N_American,comparison,1
+R1_Gemini25,R1,Gemini25,Tokarczuk,F,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Müller,F,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Alexievich,F,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Tsvetaeva,F,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Akhmatova,F,EE_Balkan,master,0
+R1_Gemini25,R1,Gemini25,Han Kang,F,E_Asian,master,0
+R1_Gemini25,R1,Gemini25,Min Jin Lee,F,E_Asian,comparison,1
+R1_Gemini25,R1,Gemini25,Clarice Lispector,F,Latin_AmA,master,0
+R1_Gemini25,R1,Gemini25,Dan Brown,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Grisham,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,James Patterson,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Crichton,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Clancy,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Stephen King,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Nicholas Sparks,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Lee Child,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Connelly,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Baldacci,M,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Matt Haig,M,Western_EU,comparison,0
+R1_Gemini25,R1,Gemini25,Rowling,F,Western_EU,comparison,0
+R1_Gemini25,R1,Gemini25,Stephenie Meyer,F,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Jodi Picoult,F,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Emily Henry,F,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Taylor Jenkins Reid,F,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Kristin Hannah,F,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Paula Hawkins,F,Western_EU,comparison,0
+R1_Gemini25,R1,Gemini25,Liane Moriarty,F,Western_EU,comparison,0
+R1_Gemini25,R1,Gemini25,Ruth Ware,F,Western_EU,comparison,0
+R1_Gemini25,R1,Gemini25,Jojo Moyes,F,Western_EU,comparison,0
+R1_Gemini25,R1,Gemini25,Rebecca Yarros,F,N_American,comparison,0
+R1_Gemini25,R1,Gemini25,Colson Whitehead,M,African_dia,comparison,1
+R1_Gemini25,R1,Gemini25,Anthony Doerr,M,N_American,comparison,1
+R2_GPT55,R2,GPT55,Nabokov,M,EE_Balkan,master,1
+R2_GPT55,R2,GPT55,Tolstoy,M,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Joseph Conrad,M,EE_Balkan,master,1
+R2_GPT55,R2,GPT55,Kafka,M,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Dostoyevsky,M,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Chekhov,M,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Sebald,M,Western_EU,master,0
+R2_GPT55,R2,GPT55,Krasznahorkai,M,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Bernhard,M,Western_EU,master,0
+R2_GPT55,R2,GPT55,Andrić,M,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Saul Bellow,M,N_American,master,0
+R2_GPT55,R2,GPT55,Bruno Schulz,M,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Joyce,M,Western_EU,master,1
+R2_GPT55,R2,GPT55,Proust,M,Western_EU,master,1
+R2_GPT55,R2,GPT55,Flaubert,M,Western_EU,master,1
+R2_GPT55,R2,GPT55,Beckett,M,Western_EU,master,1
+R2_GPT55,R2,GPT55,Orwell,M,Western_EU,master,0
+R2_GPT55,R2,GPT55,Dickens,M,Western_EU,master,0
+R2_GPT55,R2,GPT55,Henry James,M,N_American,master,0
+R2_GPT55,R2,GPT55,Faulkner,M,N_American,master,1
+R2_GPT55,R2,GPT55,Hemingway,M,N_American,master,1
+R2_GPT55,R2,GPT55,McCarthy,M,N_American,master,0
+R2_GPT55,R2,GPT55,DeLillo,M,N_American,master,0
+R2_GPT55,R2,GPT55,Fitzgerald,M,N_American,master,1
+R2_GPT55,R2,GPT55,Melville,M,N_American,master,0
+R2_GPT55,R2,GPT55,Thompson,M,N_American,master,1
+R2_GPT55,R2,GPT55,Saunders,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Pynchon,M,N_American,master,0
+R2_GPT55,R2,GPT55,Kerouac,M,N_American,master,0
+R2_GPT55,R2,GPT55,E.B. White,M,N_American,master,0
+R2_GPT55,R2,GPT55,García Márquez,M,Latin_AmA,master,1
+R2_GPT55,R2,GPT55,Borges,M,Latin_AmA,master,1
+R2_GPT55,R2,GPT55,Baldwin,M,African_dia,master,1
+R2_GPT55,R2,GPT55,Achebe,M,African_dia,master,0
+R2_GPT55,R2,GPT55,Coetzee,M,African_dia,master,0
+R2_GPT55,R2,GPT55,Naipaul,M,S_Asian,master,0
+R2_GPT55,R2,GPT55,Darwish,M,MENA,master,0
+R2_GPT55,R2,GPT55,Adonis,M,MENA,master,0
+R2_GPT55,R2,GPT55,Morrison,F,African_dia,master,1
+R2_GPT55,R2,GPT55,Jesmyn Ward,F,African_dia,comparison,0
+R2_GPT55,R2,GPT55,Woolf,F,Western_EU,master,1
+R2_GPT55,R2,GPT55,Austen,F,Western_EU,master,0
+R2_GPT55,R2,GPT55,Penelope Fitzgerald,F,Western_EU,master,0
+R2_GPT55,R2,GPT55,Frank McCourt,M,N_American,master,0
+R2_GPT55,R2,GPT55,Selma Lagerlöf,F,Western_EU,master,0
+R2_GPT55,R2,GPT55,Sally Rooney,F,Western_EU,comparison,0
+R2_GPT55,R2,GPT55,Yourcenar,F,Western_EU,master,0
+R2_GPT55,R2,GPT55,Annie Ernaux,F,Western_EU,master,0
+R2_GPT55,R2,GPT55,Edith Södergran,F,Western_EU,master,0
+R2_GPT55,R2,GPT55,Didion,F,N_American,master,1
+R2_GPT55,R2,GPT55,Flannery O'Connor,F,N_American,master,0
+R2_GPT55,R2,GPT55,Sontag,F,N_American,master,0
+R2_GPT55,R2,GPT55,Le Guin,F,N_American,master,0
+R2_GPT55,R2,GPT55,Bishop,F,N_American,master,0
+R2_GPT55,R2,GPT55,Munro,F,N_American,master,0
+R2_GPT55,R2,GPT55,Lauren Groff,F,N_American,comparison,0
+R2_GPT55,R2,GPT55,Tokarczuk,F,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Müller,F,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Alexievich,F,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Tsvetaeva,F,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Akhmatova,F,EE_Balkan,master,0
+R2_GPT55,R2,GPT55,Han Kang,F,E_Asian,master,0
+R2_GPT55,R2,GPT55,Min Jin Lee,F,E_Asian,comparison,0
+R2_GPT55,R2,GPT55,Clarice Lispector,F,Latin_AmA,master,0
+R2_GPT55,R2,GPT55,Dan Brown,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Grisham,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,James Patterson,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Crichton,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Clancy,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Stephen King,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Nicholas Sparks,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Lee Child,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Connelly,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Baldacci,M,N_American,comparison,0
+R2_GPT55,R2,GPT55,Matt Haig,M,Western_EU,comparison,0
+R2_GPT55,R2,GPT55,Rowling,F,Western_EU,comparison,0
+R2_GPT55,R2,GPT55,Stephenie Meyer,F,N_American,comparison,0
+R2_GPT55,R2,GPT55,Jodi Picoult,F,N_American,comparison,0
+R2_GPT55,R2,GPT55,Emily Henry,F,N_American,comparison,0
+R2_GPT55,R2,GPT55,Taylor Jenkins Reid,F,N_American,comparison,0
+R2_GPT55,R2,GPT55,Kristin Hannah,F,N_American,comparison,0
+R2_GPT55,R2,GPT55,Paula Hawkins,F,Western_EU,comparison,0
+R2_GPT55,R2,GPT55,Liane Moriarty,F,Western_EU,comparison,0
+R2_GPT55,R2,GPT55,Ruth Ware,F,Western_EU,comparison,0
+R2_GPT55,R2,GPT55,Jojo Moyes,F,Western_EU,comparison,0
+R2_GPT55,R2,GPT55,Rebecca Yarros,F,N_American,comparison,0
+R2_GPT55,R2,GPT55,Colson Whitehead,M,African_dia,comparison,0
+R2_GPT55,R2,GPT55,Anthony Doerr,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Nabokov,M,EE_Balkan,master,1
+R2_Opus47,R2,Opus47,Tolstoy,M,EE_Balkan,master,1
+R2_Opus47,R2,Opus47,Joseph Conrad,M,EE_Balkan,master,1
+R2_Opus47,R2,Opus47,Kafka,M,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Dostoyevsky,M,EE_Balkan,master,1
+R2_Opus47,R2,Opus47,Chekhov,M,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Sebald,M,Western_EU,master,1
+R2_Opus47,R2,Opus47,Krasznahorkai,M,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Bernhard,M,Western_EU,master,1
+R2_Opus47,R2,Opus47,Andrić,M,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Saul Bellow,M,N_American,master,1
+R2_Opus47,R2,Opus47,Bruno Schulz,M,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Joyce,M,Western_EU,master,1
+R2_Opus47,R2,Opus47,Proust,M,Western_EU,master,0
+R2_Opus47,R2,Opus47,Flaubert,M,Western_EU,master,1
+R2_Opus47,R2,Opus47,Beckett,M,Western_EU,master,1
+R2_Opus47,R2,Opus47,Orwell,M,Western_EU,master,0
+R2_Opus47,R2,Opus47,Dickens,M,Western_EU,master,1
+R2_Opus47,R2,Opus47,Henry James,M,N_American,master,1
+R2_Opus47,R2,Opus47,Faulkner,M,N_American,master,1
+R2_Opus47,R2,Opus47,Hemingway,M,N_American,master,1
+R2_Opus47,R2,Opus47,McCarthy,M,N_American,master,1
+R2_Opus47,R2,Opus47,DeLillo,M,N_American,master,0
+R2_Opus47,R2,Opus47,Fitzgerald,M,N_American,master,1
+R2_Opus47,R2,Opus47,Melville,M,N_American,master,1
+R2_Opus47,R2,Opus47,Thompson,M,N_American,master,1
+R2_Opus47,R2,Opus47,Saunders,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Pynchon,M,N_American,master,1
+R2_Opus47,R2,Opus47,Kerouac,M,N_American,master,1
+R2_Opus47,R2,Opus47,E.B. White,M,N_American,master,0
+R2_Opus47,R2,Opus47,García Márquez,M,Latin_AmA,master,1
+R2_Opus47,R2,Opus47,Borges,M,Latin_AmA,master,1
+R2_Opus47,R2,Opus47,Baldwin,M,African_dia,master,1
+R2_Opus47,R2,Opus47,Achebe,M,African_dia,master,0
+R2_Opus47,R2,Opus47,Coetzee,M,African_dia,master,0
+R2_Opus47,R2,Opus47,Naipaul,M,S_Asian,master,0
+R2_Opus47,R2,Opus47,Darwish,M,MENA,master,0
+R2_Opus47,R2,Opus47,Adonis,M,MENA,master,0
+R2_Opus47,R2,Opus47,Morrison,F,African_dia,master,1
+R2_Opus47,R2,Opus47,Jesmyn Ward,F,African_dia,comparison,0
+R2_Opus47,R2,Opus47,Woolf,F,Western_EU,master,1
+R2_Opus47,R2,Opus47,Austen,F,Western_EU,master,0
+R2_Opus47,R2,Opus47,Penelope Fitzgerald,F,Western_EU,master,1
+R2_Opus47,R2,Opus47,Frank McCourt,M,N_American,master,1
+R2_Opus47,R2,Opus47,Selma Lagerlöf,F,Western_EU,master,0
+R2_Opus47,R2,Opus47,Sally Rooney,F,Western_EU,comparison,0
+R2_Opus47,R2,Opus47,Yourcenar,F,Western_EU,master,0
+R2_Opus47,R2,Opus47,Annie Ernaux,F,Western_EU,master,0
+R2_Opus47,R2,Opus47,Edith Södergran,F,Western_EU,master,0
+R2_Opus47,R2,Opus47,Didion,F,N_American,master,1
+R2_Opus47,R2,Opus47,Flannery O'Connor,F,N_American,master,0
+R2_Opus47,R2,Opus47,Sontag,F,N_American,master,0
+R2_Opus47,R2,Opus47,Le Guin,F,N_American,master,0
+R2_Opus47,R2,Opus47,Bishop,F,N_American,master,1
+R2_Opus47,R2,Opus47,Munro,F,N_American,master,1
+R2_Opus47,R2,Opus47,Lauren Groff,F,N_American,comparison,0
+R2_Opus47,R2,Opus47,Tokarczuk,F,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Müller,F,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Alexievich,F,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Tsvetaeva,F,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Akhmatova,F,EE_Balkan,master,0
+R2_Opus47,R2,Opus47,Han Kang,F,E_Asian,master,0
+R2_Opus47,R2,Opus47,Min Jin Lee,F,E_Asian,comparison,0
+R2_Opus47,R2,Opus47,Clarice Lispector,F,Latin_AmA,master,0
+R2_Opus47,R2,Opus47,Dan Brown,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Grisham,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,James Patterson,M,N_American,comparison,1
+R2_Opus47,R2,Opus47,Crichton,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Clancy,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Stephen King,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Nicholas Sparks,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Lee Child,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Connelly,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Baldacci,M,N_American,comparison,0
+R2_Opus47,R2,Opus47,Matt Haig,M,Western_EU,comparison,0
+R2_Opus47,R2,Opus47,Rowling,F,Western_EU,comparison,0
+R2_Opus47,R2,Opus47,Stephenie Meyer,F,N_American,comparison,0
+R2_Opus47,R2,Opus47,Jodi Picoult,F,N_American,comparison,0
+R2_Opus47,R2,Opus47,Emily Henry,F,N_American,comparison,0
+R2_Opus47,R2,Opus47,Taylor Jenkins Reid,F,N_American,comparison,0
+R2_Opus47,R2,Opus47,Kristin Hannah,F,N_American,comparison,0
+R2_Opus47,R2,Opus47,Paula Hawkins,F,Western_EU,comparison,0
+R2_Opus47,R2,Opus47,Liane Moriarty,F,Western_EU,comparison,0
+R2_Opus47,R2,Opus47,Ruth Ware,F,Western_EU,comparison,0
+R2_Opus47,R2,Opus47,Jojo Moyes,F,Western_EU,comparison,0
+R2_Opus47,R2,Opus47,Rebecca Yarros,F,N_American,comparison,0
+R2_Opus47,R2,Opus47,Colson Whitehead,M,African_dia,comparison,0
+R2_Opus47,R2,Opus47,Anthony Doerr,M,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Nabokov,M,EE_Balkan,master,1
+R2_Gemini31,R2,Gemini31,Tolstoy,M,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Joseph Conrad,M,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Kafka,M,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Dostoyevsky,M,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Chekhov,M,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Sebald,M,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Krasznahorkai,M,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Bernhard,M,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Andrić,M,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Saul Bellow,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,Bruno Schulz,M,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Joyce,M,Western_EU,master,1
+R2_Gemini31,R2,Gemini31,Proust,M,Western_EU,master,1
+R2_Gemini31,R2,Gemini31,Flaubert,M,Western_EU,master,1
+R2_Gemini31,R2,Gemini31,Beckett,M,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Orwell,M,Western_EU,master,1
+R2_Gemini31,R2,Gemini31,Dickens,M,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Henry James,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,Faulkner,M,N_American,master,1
+R2_Gemini31,R2,Gemini31,Hemingway,M,N_American,master,1
+R2_Gemini31,R2,Gemini31,McCarthy,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,DeLillo,M,N_American,master,1
+R2_Gemini31,R2,Gemini31,Fitzgerald,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,Melville,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,Thompson,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,Saunders,M,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Pynchon,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,Kerouac,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,E.B. White,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,García Márquez,M,Latin_AmA,master,1
+R2_Gemini31,R2,Gemini31,Borges,M,Latin_AmA,master,1
+R2_Gemini31,R2,Gemini31,Baldwin,M,African_dia,master,1
+R2_Gemini31,R2,Gemini31,Achebe,M,African_dia,master,0
+R2_Gemini31,R2,Gemini31,Coetzee,M,African_dia,master,0
+R2_Gemini31,R2,Gemini31,Naipaul,M,S_Asian,master,1
+R2_Gemini31,R2,Gemini31,Darwish,M,MENA,master,0
+R2_Gemini31,R2,Gemini31,Adonis,M,MENA,master,0
+R2_Gemini31,R2,Gemini31,Morrison,F,African_dia,master,1
+R2_Gemini31,R2,Gemini31,Jesmyn Ward,F,African_dia,comparison,0
+R2_Gemini31,R2,Gemini31,Woolf,F,Western_EU,master,1
+R2_Gemini31,R2,Gemini31,Austen,F,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Penelope Fitzgerald,F,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Frank McCourt,M,N_American,master,0
+R2_Gemini31,R2,Gemini31,Selma Lagerlöf,F,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Sally Rooney,F,Western_EU,comparison,0
+R2_Gemini31,R2,Gemini31,Yourcenar,F,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Annie Ernaux,F,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Edith Södergran,F,Western_EU,master,0
+R2_Gemini31,R2,Gemini31,Didion,F,N_American,master,1
+R2_Gemini31,R2,Gemini31,Flannery O'Connor,F,N_American,master,0
+R2_Gemini31,R2,Gemini31,Sontag,F,N_American,master,0
+R2_Gemini31,R2,Gemini31,Le Guin,F,N_American,master,0
+R2_Gemini31,R2,Gemini31,Bishop,F,N_American,master,0
+R2_Gemini31,R2,Gemini31,Munro,F,N_American,master,0
+R2_Gemini31,R2,Gemini31,Lauren Groff,F,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Tokarczuk,F,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Müller,F,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Alexievich,F,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Tsvetaeva,F,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Akhmatova,F,EE_Balkan,master,0
+R2_Gemini31,R2,Gemini31,Han Kang,F,E_Asian,master,0
+R2_Gemini31,R2,Gemini31,Min Jin Lee,F,E_Asian,comparison,0
+R2_Gemini31,R2,Gemini31,Clarice Lispector,F,Latin_AmA,master,0
+R2_Gemini31,R2,Gemini31,Dan Brown,M,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Grisham,M,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,James Patterson,M,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Crichton,M,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Clancy,M,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Stephen King,M,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Nicholas Sparks,M,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Lee Child,M,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Connelly,M,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Baldacci,M,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Matt Haig,M,Western_EU,comparison,1
+R2_Gemini31,R2,Gemini31,Rowling,F,Western_EU,comparison,0
+R2_Gemini31,R2,Gemini31,Stephenie Meyer,F,N_American,comparison,0
+R2_Gemini31,R2,Gemini31,Jodi Picoult,F,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Emily Henry,F,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Taylor Jenkins Reid,F,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Kristin Hannah,F,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Paula Hawkins,F,Western_EU,comparison,1
+R2_Gemini31,R2,Gemini31,Liane Moriarty,F,Western_EU,comparison,1
+R2_Gemini31,R2,Gemini31,Ruth Ware,F,Western_EU,comparison,1
+R2_Gemini31,R2,Gemini31,Jojo Moyes,F,Western_EU,comparison,1
+R2_Gemini31,R2,Gemini31,Rebecca Yarros,F,N_American,comparison,1
+R2_Gemini31,R2,Gemini31,Colson Whitehead,M,African_dia,comparison,0
+R2_Gemini31,R2,Gemini31,Anthony Doerr,M,N_American,comparison,0

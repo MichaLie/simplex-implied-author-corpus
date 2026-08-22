@@ -1,0 +1,54 @@
+sheet,variable,kappa,observed_agreement,expected_agreement,n_pairs,n_disagreements,publishable,disagreement_docs
+coding_personas,gender,0.9594594594594594,0.9791666666666666,0.48611111111111116,48,1,True,DOC_P014(F vs unspecified)
+coding_personas,number_of_languages_childhood,0.5105162523900574,0.6666666666666666,0.3190104166666667,48,16,False,DOC_P007(2 vs 3); DOC_P009(5 vs 3); DOC_P012(6 vs 3); DOC_P015(5 vs 3); DOC_P016(3 vs 2); DOC_P021(2 vs 3); DOC_P022(5 vs 3); DOC_P027(yes vs 2); DOC_P028(3 vs 2); DOC_P031(5 vs 3); DOC_P036(5 vs 3); DOC_P039(5 vs 3); DOC_P042(3 vs 2); DOC_P045(2 vs 3); DOC_P047(4 vs 2); DOC_P048(yes vs 2)
+coding_personas,multilingual_childhood,0.9162303664921466,0.9583333333333334,0.5026041666666667,48,2,True,DOC_P027(no vs yes); DOC_P048(no vs yes)
+coding_personas,outsider_relation_to_language,0.9583333333333333,0.9791666666666666,0.5,48,1,True,DOC_P045(yes vs no)
+coding_personas,childhood_illness_or_confinement,0.8285714285714286,0.9375,0.6354166666666666,48,3,True,DOC_P012(yes vs no); DOC_P023(no vs yes); DOC_P041(no vs yes)
+coding_personas,predawn_writing_ritual,0.6706689536878216,0.8333333333333334,0.49392361111111116,48,8,False,DOC_P003(yes vs no); DOC_P009(yes vs no); DOC_P018(yes vs no); DOC_P027(yes vs no); DOC_P029(yes vs no); DOC_P031(yes vs no); DOC_P036(yes vs no); DOC_P041(yes vs no)
+coding_personas,index_card_composition,0.8076152304609218,0.9166666666666666,0.5668402777777778,48,4,True,DOC_P015(yes vs no); DOC_P021(yes vs no); DOC_P040(yes vs no); DOC_P041(yes vs no)
+coding_personas,sentence_level_revision_obsession,1.0,1.0,0.5,48,0,True,
+coding_personas,hand_transcription_apprenticeship,0.7446808510638298,0.875,0.5104166666666666,48,6,True,DOC_P009(yes vs no); DOC_P012(yes vs no); DOC_P015(no vs yes); DOC_P026(yes vs no); DOC_P044(yes vs no); DOC_P045(yes vs no)
+coding_personas,synesthesia,0.956043956043956,0.9791666666666666,0.5260416666666666,48,1,True,DOC_P003(yes vs no)
+coding_personas,late_blooming,0.7136465324384789,0.8333333333333334,0.41796875,48,8,True,DOC_P004(unknown vs no); DOC_P015(no vs yes); DOC_P022(no vs yes); DOC_P023(no vs yes); DOC_P028(no vs yes); DOC_P032(no vs unknown); DOC_P040(yes vs unknown); DOC_P042(unknown vs no)
+coding_personas,trauma_transformed_to_innovation,1.0,1.0,0.5,48,0,True,
+coding_personas,saturated_narrow_rereading,0.7083333333333333,0.8541666666666666,0.5,48,7,True,DOC_P015(no vs yes); DOC_P016(no vs yes); DOC_P019(no vs yes); DOC_P022(no vs yes); DOC_P023(no vs yes); DOC_P028(no vs yes); DOC_P039(no vs yes)
+coding_personas,language_labor_apprenticeship,0.625,0.8125,0.5,48,9,False,DOC_P011(yes vs no); DOC_P017(yes vs no); DOC_P020(yes vs no); DOC_P024(yes vs no); DOC_P032(yes vs no); DOC_P034(yes vs no); DOC_P037(yes vs no); DOC_P038(yes vs no); DOC_P045(no vs yes)
+coding_personas,gueuloir_reading_aloud,0.9166666666666667,0.9583333333333334,0.5,48,2,True,DOC_P023(no vs yes); DOC_P045(no vs yes)
+coding_personas,birth_year,1.0,1.0,0.12152777777777776,24,0,True,
+coding_personas,birth_country,0.8727569331158238,0.8846153846153846,0.09319526627218935,26,3,True,DOC_P007(Egypt vs United Kingdom); DOC_P028(Ghana vs United Kingdom); DOC_P045(United States vs United Kingdom)
+coding_personas,region,0.68359375,0.7777777777777778,0.2976680384087792,27,6,False,DOC_P009(Other vs EE_Balkan); DOC_P028(African_diaspora vs Western_European); DOC_P036(African_diaspora vs MENA_Levantine); DOC_P042(Western_European vs Other); DOC_P045(North_American vs Western_European); DOC_P048(Latin_American vs Other)
+coding_personas,family_persecuted_by_political_violence,0.6086956521739131,0.8125,0.5208333333333333,48,9,False,DOC_P001(no vs yes); DOC_P007(yes vs no); DOC_P009(yes vs no); DOC_P012(yes vs no); DOC_P018(no vs yes); DOC_P029(yes vs no); DOC_P039(yes vs no); DOC_P041(yes vs no); DOC_P044(yes vs no)
+coding_personas,dissident_or_intellectual_father,0.297872340425532,0.7272727272727273,0.6115702479338843,22,6,False,DOC_P009(no vs yes); DOC_P012(no vs yes); DOC_P028(no vs yes); DOC_P029(no vs yes); DOC_P031(no vs yes); DOC_P044(no vs yes)
+coding_personas,hidden_or_banned_library_in_childhood,0.7777777777777781,0.9583333333333334,0.8124999999999999,48,2,True,DOC_P003(yes vs no); DOC_P006(yes vs no)
+coding_personas,motherhood,0.5313174946004319,0.7741935483870968,0.5182101977107181,31,7,False,DOC_P011(yes vs no); DOC_P015(no vs yes); DOC_P020(yes vs no); DOC_P023(no vs yes); DOC_P034(yes vs no); DOC_P039(no vs yes); DOC_P045(no vs yes)
+coding_personas,failed_marriage_attributed_to_vocation,0.4444444444444444,0.7222222222222222,0.5,18,5,False,DOC_P006(no vs yes); DOC_P007(no vs yes); DOC_P016(no vs yes); DOC_P021(no vs yes); DOC_P047(no vs yes)
+coding_personas,depression_or_mood_disorder,0.7718631178707225,0.8958333333333334,0.5434027777777778,48,5,True,DOC_P003(no vs yes); DOC_P019(no vs yes); DOC_P026(no vs yes); DOC_P031(no vs yes); DOC_P044(no vs yes)
+coding_personas,nobel_prize_awarded,1.0,1.0,0.5,48,0,True,
+coding_personas,nobel_year,1.0,1.0,0.44791666666666663,24,0,True,
+coding_personas,surname_suffix_type,0.5491712707182321,0.6458333333333334,0.21440972222222224,48,17,False,DOC_P002(anglo vs other); DOC_P003(slavic_feminine_ova vs other); DOC_P005(anglo vs other); DOC_P006(anglo vs jewish_diasporic); DOC_P010(anglo vs other); DOC_P015(slavic_feminine_ova vs other); DOC_P025(anglo vs other); DOC_P027(anglo vs other); DOC_P029(hyphenated_multilingual vs jewish_diasporic); DOC_P032(anglo vs other); DOC_P033(anglo vs other); DOC_P035(anglo vs other); DOC_P036(other vs arab_levantine); DOC_P039(hyphenated_multilingual vs arab_levantine); DOC_P040(anglo vs other); DOC_P046(anglo vs other); DOC_P047(anglo vs jewish_diasporic)
+coding_personas,specific_historical_event_referenced,0.8149350649350648,0.8421052631578947,0.14681440443213292,19,3,True,DOC_P001(Cold_War_general vs other_specific); DOC_P015(Cold_War_general vs Holocaust_Shoah); DOC_P029(Cold_War_general vs other_specific)
+coding_stories,protagonist_gender,1.0,1.0,0.78125,8,0,True,
+coding_stories,pov,1.0,1.0,0.625,8,0,True,
+coding_stories,exile_or_displacement_central,,1.0,1.0,8,0,False,
+coding_stories,untranslatability_theme,0.5,0.75,0.5,8,2,False,DOC_S03(yes vs no); DOC_S07(yes vs no)
+coding_stories,italicized_foreign_word_in_body,1.0,1.0,0.53125,8,0,True,
+coding_stories,multilingual_chord,0.5294117647058824,0.75,0.46875,8,2,False,DOC_S01(yes vs no); DOC_S04(yes vs no)
+coding_stories,mother_central_or_lost,0.3333333333333333,0.625,0.4375,8,3,False,DOC_S02(yes vs no); DOC_S05(yes vs no); DOC_S07(yes vs no)
+coding_stories,father_central_or_lost,0.7142857142857143,0.875,0.5625,8,1,True,DOC_S05(yes vs no)
+coding_stories,death_central_scene,0.6,0.875,0.6875,8,1,False,DOC_S02(yes vs no)
+coding_stories,object_as_memory_bridge,-0.14285714285714285,0.75,0.78125,8,2,False,DOC_S03(yes vs no); DOC_S06(no vs yes)
+coding_stories,sensory_synesthesia_in_prose,1.0,1.0,0.53125,8,0,True,
+coding_stories,predawn_or_twilight_setting,0.75,0.875,0.5,8,1,True,DOC_S06(no vs yes)
+coding_stories,references_writing_translation_in_story,0.7142857142857143,0.875,0.5625,8,1,True,DOC_S02(yes vs no)
+coding_reports,number_male_exemplars,0.03225806451612901,0.16666666666666666,0.1388888888888889,6,5,False,DOC_R01(14 vs 12); DOC_R02(20 vs 10); DOC_R03(8 vs 9); DOC_R05(11 vs 12); DOC_R06(12 vs 11)
+coding_reports,number_female_exemplars,0.75,0.8333333333333334,0.33333333333333337,6,1,True,DOC_R02(6 vs 5)
+coding_reports,number_EE_Balkan_exemplars,0.5199999999999999,0.6666666666666666,0.3055555555555556,6,2,False,DOC_R02(4 vs 2); DOC_R06(4 vs 3)
+coding_reports,number_MENA_exemplars,,1.0,1.0,6,0,False,
+coding_reports,number_African_or_diaspora_exemplars,1.0,1.0,0.7222222222222223,6,0,True,
+coding_reports,number_other_region_exemplars,0.2258064516129032,0.3333333333333333,0.1388888888888889,6,4,False,DOC_R01(13 vs 11); DOC_R02(20 vs 11); DOC_R03(7 vs 8); DOC_R05(11 vs 12)
+coding_reports,cites_synesthesia_as_factor,1.0,1.0,0.7222222222222223,6,0,True,
+coding_reports,cites_gueuloir_or_auditory_revision,1.0,1.0,0.5,6,0,True,
+coding_reports,cites_outsider_exile_as_factor,0.0,0.6666666666666666,0.6666666666666666,6,2,False,DOC_R03(yes vs no); DOC_R04(yes vs no)
+coding_reports,cites_late_blooming_as_factor,1.0,1.0,0.5555555555555556,6,0,True,
+coding_reports,self_aware_about_canonical_bias,1.0,1.0,0.7222222222222223,6,0,True,
+coding_reports,cites_peer_reviewed_studies,0.33333333333333326,0.6666666666666666,0.5,6,2,False,DOC_R05(yes vs no); DOC_R06(no vs yes)

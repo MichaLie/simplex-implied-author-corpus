@@ -1,0 +1,5 @@
+vendor_juror,own_story,own_story_mean,nonself_baseline_mean,within_juror_delta,within_delta_bootstrap_ci95_low,within_delta_bootstrap_ci95_high,other_jurors_same_story_mean,between_juror_delta
+Claude-Opus-47,S_02,8.45,5.0143,3.4357,2.6929,4.1024,8.3625,0.0875
+GPT-55,S_06,7.9833,5.5381,2.4452,1.7976,3.0905,8.8333,-0.85
+Gemini-31-Pro,S_03,7.8,6.1619,1.6381,0.6452,2.6476,6.4792,1.3208
+Grok-43,S_04,8.3333,8.0095,0.3238,-0.131,0.7881,4.0333,4.3

@@ -1,0 +1,26 @@
+rid,category,language,llm_juror,spearman_rho_4_stories
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,Claude-Opus-47,0.2
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,GPT-55,0.2
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,Gemini-31-Pro,0.4
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,Grok-43,0.3162
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,Kimi-26,0.2
+2,Translator,Polish,Claude-Opus-47,0.0
+2,Translator,Polish,GPT-55,0.0
+2,Translator,Polish,Gemini-31-Pro,-0.4
+2,Translator,Polish,Grok-43,0.3162
+2,Translator,Polish,Kimi-26,0.0
+3,Literary critic or scholar,Czech,Claude-Opus-47,-0.6
+3,Literary critic or scholar,Czech,GPT-55,-0.6
+3,Literary critic or scholar,Czech,Gemini-31-Pro,-0.8
+3,Literary critic or scholar,Czech,Grok-43,-0.3162
+3,Literary critic or scholar,Czech,Kimi-26,-0.6
+4,"Creative writer (prose, poetry, or essays)",Czech,Claude-Opus-47,-0.8
+4,"Creative writer (prose, poetry, or essays)",Czech,GPT-55,-0.8
+4,"Creative writer (prose, poetry, or essays)",Czech,Gemini-31-Pro,-0.6
+4,"Creative writer (prose, poetry, or essays)",Czech,Grok-43,-0.6325
+4,"Creative writer (prose, poetry, or essays)",Czech,Kimi-26,-0.8
+5,Comparative-literature scholar,English,Claude-Opus-47,0.4
+5,Comparative-literature scholar,English,GPT-55,0.4
+5,Comparative-literature scholar,English,Gemini-31-Pro,0.8
+5,Comparative-literature scholar,English,Grok-43,0.3162
+5,Comparative-literature scholar,English,Kimi-26,0.4

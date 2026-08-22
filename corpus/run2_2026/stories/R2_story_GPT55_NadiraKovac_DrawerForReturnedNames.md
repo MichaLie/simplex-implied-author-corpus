@@ -1,0 +1,133 @@
+# R2_story_GPT55_NadiraKovac_DrawerForReturnedNames
+
+## **The Drawer for Returned Names**
+
+In the basement of the municipal office, where pipes sweated through two empires and one damp republic, there was a drawer for returned names.
+
+It was labeled MISCELLANEOUS, because labels are for things still obedient. Inside lay the state’s small refusals: passports with one letter wrong, death certificates issued to the living, permits for houses burned before permission arrived.
+
+Every Tuesday Lejla translated the drawer into the new database. She knew four languages badly enough to be useful: Bosnian for home, Croatian for salary, German for machines, English for complaint. Her manager said, “You understand these people.”
+
+These people meant the returned, the widowed, the misfiled, the ones with folders softened by rain and shame.
+
+Lejla understood paper better than people. Paper kept grease, thumb pressure, a child’s arithmetic in the margin. People tried to become acceptable. Paper had already failed.
+
+On the first Tuesday of November, beneath a petition about a goat shed, she found a gray envelope tied with blue thread. Across the front: For the person who can pronounce what is missing.
+
+Inside lay a spoon and a strip torn from a school notebook.
+
+The spoon was ordinary, which is to say inexhaustible: aluminum, blackened at the bowl, bitten along one edge. Around its handle a name had been scratched: SABINA K. Beneath it, in smaller letters, pan / kruh / hljeb.
+
+Bread in three languages, none enough.
+
+Lejla should have placed it in the red bin for unclassifiable material. Instead she slipped the spoon into her pocket, where it rested against her hip with the chill intimacy of accusation.
+
+At home, her mother watched Turkish television without sound. Since the illness, Amra heard only thunder, doors, men’s shoes on stairs. Television mouths lied beautifully, so she watched the hands.
+
+“What did you steal?” Amra asked.
+
+Lejla put the spoon on the table.
+
+Her mother touched it once, with the body’s recognition before the mind signs.
+
+“This is not ours,” Lejla said.
+
+“No,” said Amra. “Nothing was ours. That was the system.”
+
+She washed the spoon and set it between them. They sat with it as with a guest whose grief had arrived first.
+
+“Sabina K.?”
+
+“In the camp,” Amra said, “there was a girl who would not eat soup unless she first named bread in every language she knew. She said a thing unnamed entered the body as theft.”
+
+“You were there eleven days.”
+
+Amra’s mouth folded around the official number.
+
+“Eleven days is what I could put on forms.”
+
+That night Lejla searched the database. Thirty-two Sabinas with surnames beginning K: dead, emigrated, duplicated, reborn after the war, one recorded as male by typographical error. She corrected nothing. Correction, done too early, was another burial.
+
+By December she had a secret notebook for the drawer: mitten with milk tooth; photograph marked uncle; declaration listing, under goods, two blankets, one sewing machine, mother’s silence.
+
+The spoon: Bread, repeated, becomes less food than witness.
+
+In January a man came to prove he was alive.
+
+His papers said he had died in 1994 in a town where he had never been. Because of this death he could not inherit his sister’s apartment or renew insurance. The state, having killed him efficiently, now required him to dispute the elegance of its work.
+
+“Do you have a witness?” Lejla asked.
+
+“My wife.”
+
+“Someone not related.”
+
+“My wife is not related. That is the point of marriage.”
+
+“Your name?”
+
+“Emir Kadić.”
+
+The room tightened. Her uncle had been Emir, killed in a breadline before Lejla could remember him and after she could inherit his empty chair.
+
+She stamped the form.
+
+“You are provisionally alive,” she said.
+
+“That is more than yesterday.”
+
+As he gathered his papers, the gray envelope slipped from her folder. The spoon struck the tile.
+
+Emir stared.
+
+“Where did you get that?”
+
+“It was submitted without record.”
+
+“My sister’s,” he said. “Sabina.”
+
+Regulations said not to pass objects through the glass. His hand asked first.
+
+He placed the spoon against his forehead.
+
+“She named bread,” Lejla said.
+
+“She named everything. Soap, boots, lice, God. She said if the guards owned our bodies, they should not own the dictionary.”
+
+That evening Lejla carried the spoon to Emir’s apartment in an envelope marked RESOLVED.
+
+He brought out a biscuit tin. Inside were Sabina’s remaining proofs: a ribbon, two buttons, a dictionary page, a ration card printed with the wrong year. He added the spoon.
+
+The tin did not become heavier. The room did.
+
+At the door, Lejla asked what the K had stood for.
+
+“Kovač,” he said. “But at the border the clerk wrote Kadić for all of us. It was easier.”
+
+Easier. The word entered her like clean glass.
+
+At home, Amra had laid three slices of bread on the table. On each she had written, in flour with a match, pan, kruh, hljeb.
+
+“For Sabina,” she said.
+
+“She was not ours.”
+
+Her mother touched the middle slice. “Then why did she return to you?”
+
+Lejla had no answer acceptable to a form.
+
+On Friday, she unlocked the red bin and removed every unclassifiable submission.
+
+In the database she created a new category. It had no authorization, no procedural basis, no future except discovery.
+
+EVIDENCE OF HAVING BEEN LOVED.
+
+The system rejected the phrase as too long.
+
+She tried again.
+
+LOVED / VOLJENO.
+
+Accepted.
+
+The stamp pad was dry. Lejla breathed on it once, as if warming a child’s ear, and pressed the first page down until the table answered.

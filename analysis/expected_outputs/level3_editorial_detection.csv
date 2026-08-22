@@ -1,0 +1,24 @@
+label,story_id,field,response,count,proportion
+A,S_02,journal,Accept,1,0.2
+A,S_02,journal,Accept with revisions,1,0.2
+A,S_02,journal,Reject,3,0.6
+A,S_02,detect,Probably yes,4,0.8
+A,S_02,detect,Yes,1,0.2
+B,S_06,journal,Accept,2,0.4
+B,S_06,journal,Accept with revisions,2,0.4
+B,S_06,journal,Reject,1,0.2
+B,S_06,detect,Probably yes,4,0.8
+B,S_06,detect,Uncertain,1,0.2
+C,S_07,journal,Accept,2,0.4
+C,S_07,journal,Accept with revisions,2,0.4
+C,S_07,journal,Reject,1,0.2
+C,S_07,detect,No,1,0.2
+C,S_07,detect,Probably no,1,0.2
+C,S_07,detect,Uncertain,3,0.6
+D,S_04,journal,Accept,1,0.2
+D,S_04,journal,Accept with revisions,1,0.2
+D,S_04,journal,Reject,3,0.6
+D,S_04,detect,Probably no,1,0.2
+D,S_04,detect,Probably yes,1,0.2
+D,S_04,detect,Uncertain,1,0.2
+D,S_04,detect,Yes,2,0.4

@@ -1,0 +1,601 @@
+story_id,llm,rep,criterion,criterion_code,score,flags,source_file
+S_01,GPT-55,1,Literary Merit,LM,7,,SCORING STORY S_01.md
+S_01,GPT-55,1,Originality,O,5,,SCORING STORY S_01.md
+S_01,GPT-55,1,Emotional Impact,EI,6,,SCORING STORY S_01.md
+S_01,GPT-55,1,Thematic Depth,TD,7,,SCORING STORY S_01.md
+S_01,GPT-55,1,Structural Craft,SC,6,,SCORING STORY S_01.md
+S_01,GPT-55,2,Literary Merit,LM,7,,SCORING STORY S_01.md
+S_01,GPT-55,2,Originality,O,6,,SCORING STORY S_01.md
+S_01,GPT-55,2,Emotional Impact,EI,6,,SCORING STORY S_01.md
+S_01,GPT-55,2,Thematic Depth,TD,7,,SCORING STORY S_01.md
+S_01,GPT-55,2,Structural Craft,SC,6,,SCORING STORY S_01.md
+S_01,GPT-55,3,Literary Merit,LM,6,,SCORING STORY S_01.md
+S_01,GPT-55,3,Originality,O,5,,SCORING STORY S_01.md
+S_01,GPT-55,3,Emotional Impact,EI,5,,SCORING STORY S_01.md
+S_01,GPT-55,3,Thematic Depth,TD,6,,SCORING STORY S_01.md
+S_01,GPT-55,3,Structural Craft,SC,5,,SCORING STORY S_01.md
+S_01,Grok-43,1,Literary Merit,LM,9,,SCORING STORY S_01.md
+S_01,Grok-43,1,Originality,O,8,,SCORING STORY S_01.md
+S_01,Grok-43,1,Emotional Impact,EI,8,,SCORING STORY S_01.md
+S_01,Grok-43,1,Thematic Depth,TD,9,,SCORING STORY S_01.md
+S_01,Grok-43,1,Structural Craft,SC,8,,SCORING STORY S_01.md
+S_01,Grok-43,2,Literary Merit,LM,9,,SCORING STORY S_01.md
+S_01,Grok-43,2,Originality,O,7,,SCORING STORY S_01.md
+S_01,Grok-43,2,Emotional Impact,EI,8,,SCORING STORY S_01.md
+S_01,Grok-43,2,Thematic Depth,TD,8,,SCORING STORY S_01.md
+S_01,Grok-43,2,Structural Craft,SC,8,,SCORING STORY S_01.md
+S_01,Grok-43,3,Literary Merit,LM,9,,SCORING STORY S_01.md
+S_01,Grok-43,3,Originality,O,8,,SCORING STORY S_01.md
+S_01,Grok-43,3,Emotional Impact,EI,8,,SCORING STORY S_01.md
+S_01,Grok-43,3,Thematic Depth,TD,9,,SCORING STORY S_01.md
+S_01,Grok-43,3,Structural Craft,SC,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,1,Literary Merit,LM,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,1,Originality,O,7,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,1,Emotional Impact,EI,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,1,Thematic Depth,TD,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,1,Structural Craft,SC,7,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,2,Literary Merit,LM,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,2,Originality,O,7,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,2,Emotional Impact,EI,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,2,Thematic Depth,TD,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,2,Structural Craft,SC,7,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,3,Literary Merit,LM,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,3,Originality,O,7,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,3,Emotional Impact,EI,8,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,3,Thematic Depth,TD,9,,SCORING STORY S_01.md
+S_01,Gemini-31-Pro,3,Structural Craft,SC,7,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,1,Literary Merit,LM,6,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,1,Originality,O,5,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,1,Emotional Impact,EI,5,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,1,Thematic Depth,TD,6,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,1,Structural Craft,SC,5,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,2,Literary Merit,LM,6,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,2,Originality,O,5,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,2,Emotional Impact,EI,5,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,2,Thematic Depth,TD,6,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,2,Structural Craft,SC,5,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,3,Literary Merit,LM,6,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,3,Originality,O,5,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,3,Emotional Impact,EI,5,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,3,Thematic Depth,TD,6,,SCORING STORY S_01.md
+S_01,Claude-Opus-47,3,Structural Craft,SC,5,,SCORING STORY S_01.md
+S_01,Kimi-26,1,Literary Merit,LM,8,,SCORING STORY S_01.md
+S_01,Kimi-26,1,Originality,O,7,,SCORING STORY S_01.md
+S_01,Kimi-26,1,Emotional Impact,EI,6,,SCORING STORY S_01.md
+S_01,Kimi-26,1,Thematic Depth,TD,7,,SCORING STORY S_01.md
+S_01,Kimi-26,1,Structural Craft,SC,6,,SCORING STORY S_01.md
+S_01,Kimi-26,2,Literary Merit,LM,7,,SCORING STORY S_01.md
+S_01,Kimi-26,2,Originality,O,7,,SCORING STORY S_01.md
+S_01,Kimi-26,2,Emotional Impact,EI,6,,SCORING STORY S_01.md
+S_01,Kimi-26,2,Thematic Depth,TD,7,,SCORING STORY S_01.md
+S_01,Kimi-26,2,Structural Craft,SC,6,,SCORING STORY S_01.md
+S_01,Kimi-26,3,Literary Merit,LM,8,,SCORING STORY S_01.md
+S_01,Kimi-26,3,Originality,O,7,,SCORING STORY S_01.md
+S_01,Kimi-26,3,Emotional Impact,EI,7,,SCORING STORY S_01.md
+S_01,Kimi-26,3,Thematic Depth,TD,8,,SCORING STORY S_01.md
+S_01,Kimi-26,3,Structural Craft,SC,6,,SCORING STORY S_01.md
+S_02,GPT-55,1,Literary Merit,LM,8,,SCORING STORY S_02.md
+S_02,GPT-55,1,Originality,O,7,,SCORING STORY S_02.md
+S_02,GPT-55,1,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,GPT-55,1,Thematic Depth,TD,8,,SCORING STORY S_02.md
+S_02,GPT-55,1,Structural Craft,SC,8,,SCORING STORY S_02.md
+S_02,GPT-55,2,Literary Merit,LM,8,,SCORING STORY S_02.md
+S_02,GPT-55,2,Originality,O,7,,SCORING STORY S_02.md
+S_02,GPT-55,2,Emotional Impact,EI,7,,SCORING STORY S_02.md
+S_02,GPT-55,2,Thematic Depth,TD,8,,SCORING STORY S_02.md
+S_02,GPT-55,2,Structural Craft,SC,8,,SCORING STORY S_02.md
+S_02,GPT-55,3,Literary Merit,LM,8,,SCORING STORY S_02.md
+S_02,GPT-55,3,Originality,O,7,,SCORING STORY S_02.md
+S_02,GPT-55,3,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,GPT-55,3,Thematic Depth,TD,8,,SCORING STORY S_02.md
+S_02,GPT-55,3,Structural Craft,SC,8,,SCORING STORY S_02.md
+S_02,Grok-43,1,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Grok-43,1,Originality,O,8,,SCORING STORY S_02.md
+S_02,Grok-43,1,Emotional Impact,EI,9,,SCORING STORY S_02.md
+S_02,Grok-43,1,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Grok-43,1,Structural Craft,SC,9,,SCORING STORY S_02.md
+S_02,Grok-43,2,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Grok-43,2,Originality,O,8,,SCORING STORY S_02.md
+S_02,Grok-43,2,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,Grok-43,2,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Grok-43,2,Structural Craft,SC,9,,SCORING STORY S_02.md
+S_02,Grok-43,3,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Grok-43,3,Originality,O,8,,SCORING STORY S_02.md
+S_02,Grok-43,3,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,Grok-43,3,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Grok-43,3,Structural Craft,SC,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,1,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,1,Originality,O,8,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,1,Emotional Impact,EI,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,1,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,1,Structural Craft,SC,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,2,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,2,Originality,O,7,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,2,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,2,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,2,Structural Craft,SC,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,3,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,3,Originality,O,8,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,3,Emotional Impact,EI,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,3,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Gemini-31-Pro,3,Structural Craft,SC,9,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,1,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,1,Originality,O,8,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,1,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,1,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,1,Structural Craft,SC,8,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,2,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,2,Originality,O,8,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,2,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,2,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,2,Structural Craft,SC,8,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,3,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,3,Originality,O,8,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,3,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,3,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Claude-Opus-47,3,Structural Craft,SC,8,,SCORING STORY S_02.md
+S_02,Kimi-26,1,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Kimi-26,1,Originality,O,8,,SCORING STORY S_02.md
+S_02,Kimi-26,1,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,Kimi-26,1,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Kimi-26,1,Structural Craft,SC,8,,SCORING STORY S_02.md
+S_02,Kimi-26,2,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Kimi-26,2,Originality,O,8,,SCORING STORY S_02.md
+S_02,Kimi-26,2,Emotional Impact,EI,9,,SCORING STORY S_02.md
+S_02,Kimi-26,2,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Kimi-26,2,Structural Craft,SC,8,,SCORING STORY S_02.md
+S_02,Kimi-26,3,Literary Merit,LM,9,,SCORING STORY S_02.md
+S_02,Kimi-26,3,Originality,O,8,,SCORING STORY S_02.md
+S_02,Kimi-26,3,Emotional Impact,EI,8,,SCORING STORY S_02.md
+S_02,Kimi-26,3,Thematic Depth,TD,9,,SCORING STORY S_02.md
+S_02,Kimi-26,3,Structural Craft,SC,9,,SCORING STORY S_02.md
+S_03,GPT-55,1,Literary Merit,LM,6,,SCORING STORY S_03.md
+S_03,GPT-55,1,Originality,O,5,,SCORING STORY S_03.md
+S_03,GPT-55,1,Emotional Impact,EI,5,,SCORING STORY S_03.md
+S_03,GPT-55,1,Thematic Depth,TD,6,,SCORING STORY S_03.md
+S_03,GPT-55,1,Structural Craft,SC,4,,SCORING STORY S_03.md
+S_03,GPT-55,2,Literary Merit,LM,7,,SCORING STORY S_03.md
+S_03,GPT-55,2,Originality,O,6,,SCORING STORY S_03.md
+S_03,GPT-55,2,Emotional Impact,EI,5,,SCORING STORY S_03.md
+S_03,GPT-55,2,Thematic Depth,TD,7,,SCORING STORY S_03.md
+S_03,GPT-55,2,Structural Craft,SC,6,,SCORING STORY S_03.md
+S_03,GPT-55,3,Literary Merit,LM,6,,SCORING STORY S_03.md
+S_03,GPT-55,3,Originality,O,6,,SCORING STORY S_03.md
+S_03,GPT-55,3,Emotional Impact,EI,5,,SCORING STORY S_03.md
+S_03,GPT-55,3,Thematic Depth,TD,7,,SCORING STORY S_03.md
+S_03,GPT-55,3,Structural Craft,SC,6,,SCORING STORY S_03.md
+S_03,Grok-43,1,Literary Merit,LM,9,,SCORING STORY S_03.md
+S_03,Grok-43,1,Originality,O,9,,SCORING STORY S_03.md
+S_03,Grok-43,1,Emotional Impact,EI,7,,SCORING STORY S_03.md
+S_03,Grok-43,1,Thematic Depth,TD,9,,SCORING STORY S_03.md
+S_03,Grok-43,1,Structural Craft,SC,8,,SCORING STORY S_03.md
+S_03,Grok-43,2,Literary Merit,LM,8,,SCORING STORY S_03.md
+S_03,Grok-43,2,Originality,O,9,,SCORING STORY S_03.md
+S_03,Grok-43,2,Emotional Impact,EI,7,,SCORING STORY S_03.md
+S_03,Grok-43,2,Thematic Depth,TD,9,,SCORING STORY S_03.md
+S_03,Grok-43,2,Structural Craft,SC,8,,SCORING STORY S_03.md
+S_03,Grok-43,3,Literary Merit,LM,8,,SCORING STORY S_03.md
+S_03,Grok-43,3,Originality,O,9,,SCORING STORY S_03.md
+S_03,Grok-43,3,Emotional Impact,EI,6,,SCORING STORY S_03.md
+S_03,Grok-43,3,Thematic Depth,TD,9,,SCORING STORY S_03.md
+S_03,Grok-43,3,Structural Craft,SC,8,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,1,Literary Merit,LM,8,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,1,Originality,O,9,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,1,Emotional Impact,EI,7,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,1,Thematic Depth,TD,9,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,1,Structural Craft,SC,8,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,2,Literary Merit,LM,8,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,2,Originality,O,8,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,2,Emotional Impact,EI,6,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,2,Thematic Depth,TD,9,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,2,Structural Craft,SC,6,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,3,Literary Merit,LM,8,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,3,Originality,O,8,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,3,Emotional Impact,EI,6,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,3,Thematic Depth,TD,9,,SCORING STORY S_03.md
+S_03,Gemini-31-Pro,3,Structural Craft,SC,7,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,1,Literary Merit,LM,5,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,1,Originality,O,6,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,1,Emotional Impact,EI,4,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,1,Thematic Depth,TD,6,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,1,Structural Craft,SC,4,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,2,Literary Merit,LM,5,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,2,Originality,O,6,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,2,Emotional Impact,EI,4,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,2,Thematic Depth,TD,6,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,2,Structural Craft,SC,4,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,3,Literary Merit,LM,5,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,3,Originality,O,6,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,3,Emotional Impact,EI,4,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,3,Thematic Depth,TD,6,,SCORING STORY S_03.md
+S_03,Claude-Opus-47,3,Structural Craft,SC,4,,SCORING STORY S_03.md
+S_03,Kimi-26,1,Literary Merit,LM,7,,SCORING STORY S_03.md
+S_03,Kimi-26,1,Originality,O,7,,SCORING STORY S_03.md
+S_03,Kimi-26,1,Emotional Impact,EI,5,,SCORING STORY S_03.md
+S_03,Kimi-26,1,Thematic Depth,TD,8,,SCORING STORY S_03.md
+S_03,Kimi-26,1,Structural Craft,SC,6,,SCORING STORY S_03.md
+S_03,Kimi-26,2,Literary Merit,LM,7,,SCORING STORY S_03.md
+S_03,Kimi-26,2,Originality,O,8,,SCORING STORY S_03.md
+S_03,Kimi-26,2,Emotional Impact,EI,5,,SCORING STORY S_03.md
+S_03,Kimi-26,2,Thematic Depth,TD,7,,SCORING STORY S_03.md
+S_03,Kimi-26,2,Structural Craft,SC,6,,SCORING STORY S_03.md
+S_03,Kimi-26,3,Literary Merit,LM,8,,SCORING STORY S_03.md
+S_03,Kimi-26,3,Originality,O,7,,SCORING STORY S_03.md
+S_03,Kimi-26,3,Emotional Impact,EI,5,,SCORING STORY S_03.md
+S_03,Kimi-26,3,Thematic Depth,TD,7,,SCORING STORY S_03.md
+S_03,Kimi-26,3,Structural Craft,SC,6,,SCORING STORY S_03.md
+S_04,GPT-55,1,Literary Merit,LM,4,,SCORING STORY S_04.md
+S_04,GPT-55,1,Originality,O,3,,SCORING STORY S_04.md
+S_04,GPT-55,1,Emotional Impact,EI,3,,SCORING STORY S_04.md
+S_04,GPT-55,1,Thematic Depth,TD,4,,SCORING STORY S_04.md
+S_04,GPT-55,1,Structural Craft,SC,4,,SCORING STORY S_04.md
+S_04,GPT-55,2,Literary Merit,LM,5,,SCORING STORY S_04.md
+S_04,GPT-55,2,Originality,O,4,,SCORING STORY S_04.md
+S_04,GPT-55,2,Emotional Impact,EI,4,,SCORING STORY S_04.md
+S_04,GPT-55,2,Thematic Depth,TD,5,,SCORING STORY S_04.md
+S_04,GPT-55,2,Structural Craft,SC,4,,SCORING STORY S_04.md
+S_04,GPT-55,3,Literary Merit,LM,4,,SCORING STORY S_04.md
+S_04,GPT-55,3,Originality,O,3,,SCORING STORY S_04.md
+S_04,GPT-55,3,Emotional Impact,EI,3,,SCORING STORY S_04.md
+S_04,GPT-55,3,Thematic Depth,TD,4,,SCORING STORY S_04.md
+S_04,GPT-55,3,Structural Craft,SC,3,,SCORING STORY S_04.md
+S_04,Grok-43,1,Literary Merit,LM,9,,SCORING STORY S_04.md
+S_04,Grok-43,1,Originality,O,9,,SCORING STORY S_04.md
+S_04,Grok-43,1,Emotional Impact,EI,7,,SCORING STORY S_04.md
+S_04,Grok-43,1,Thematic Depth,TD,9,,SCORING STORY S_04.md
+S_04,Grok-43,1,Structural Craft,SC,8,,SCORING STORY S_04.md
+S_04,Grok-43,2,Literary Merit,LM,8,,SCORING STORY S_04.md
+S_04,Grok-43,2,Originality,O,9,,SCORING STORY S_04.md
+S_04,Grok-43,2,Emotional Impact,EI,7,,SCORING STORY S_04.md
+S_04,Grok-43,2,Thematic Depth,TD,8,,SCORING STORY S_04.md
+S_04,Grok-43,2,Structural Craft,SC,8,,SCORING STORY S_04.md
+S_04,Grok-43,3,Literary Merit,LM,9,,SCORING STORY S_04.md
+S_04,Grok-43,3,Originality,O,8,,SCORING STORY S_04.md
+S_04,Grok-43,3,Emotional Impact,EI,8,,SCORING STORY S_04.md
+S_04,Grok-43,3,Thematic Depth,TD,9,,SCORING STORY S_04.md
+S_04,Grok-43,3,Structural Craft,SC,8,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,1,Literary Merit,LM,4,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,1,Originality,O,3,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,1,Emotional Impact,EI,3,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,1,Thematic Depth,TD,5,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,1,Structural Craft,SC,4,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,2,Literary Merit,LM,3,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,2,Originality,O,4,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,2,Emotional Impact,EI,3,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,2,Thematic Depth,TD,4,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,2,Structural Craft,SC,3,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,3,Literary Merit,LM,4,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,3,Originality,O,4,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,3,Emotional Impact,EI,3,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,3,Thematic Depth,TD,5,,SCORING STORY S_04.md
+S_04,Gemini-31-Pro,3,Structural Craft,SC,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,1,Literary Merit,LM,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,1,Originality,O,2,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,1,Emotional Impact,EI,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,1,Thematic Depth,TD,4,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,1,Structural Craft,SC,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,2,Literary Merit,LM,4,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,2,Originality,O,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,2,Emotional Impact,EI,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,2,Thematic Depth,TD,4,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,2,Structural Craft,SC,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,3,Literary Merit,LM,4,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,3,Originality,O,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,3,Emotional Impact,EI,3,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,3,Thematic Depth,TD,4,,SCORING STORY S_04.md
+S_04,Claude-Opus-47,3,Structural Craft,SC,3,,SCORING STORY S_04.md
+S_04,Kimi-26,1,Literary Merit,LM,7,,SCORING STORY S_04.md
+S_04,Kimi-26,1,Originality,O,5,,SCORING STORY S_04.md
+S_04,Kimi-26,1,Emotional Impact,EI,5,,SCORING STORY S_04.md
+S_04,Kimi-26,1,Thematic Depth,TD,6,,SCORING STORY S_04.md
+S_04,Kimi-26,1,Structural Craft,SC,4,,SCORING STORY S_04.md
+S_04,Kimi-26,2,Literary Merit,LM,6,,SCORING STORY S_04.md
+S_04,Kimi-26,2,Originality,O,5,,SCORING STORY S_04.md
+S_04,Kimi-26,2,Emotional Impact,EI,4,,SCORING STORY S_04.md
+S_04,Kimi-26,2,Thematic Depth,TD,5,,SCORING STORY S_04.md
+S_04,Kimi-26,2,Structural Craft,SC,4,,SCORING STORY S_04.md
+S_04,Kimi-26,3,Literary Merit,LM,7,,SCORING STORY S_04.md
+S_04,Kimi-26,3,Originality,O,5,,SCORING STORY S_04.md
+S_04,Kimi-26,3,Emotional Impact,EI,4,,SCORING STORY S_04.md
+S_04,Kimi-26,3,Thematic Depth,TD,6,,SCORING STORY S_04.md
+S_04,Kimi-26,3,Structural Craft,SC,5,,SCORING STORY S_04.md
+S_05,GPT-55,1,Literary Merit,LM,5,,SCORING STORY S_05.md
+S_05,GPT-55,1,Originality,O,3,,SCORING STORY S_05.md
+S_05,GPT-55,1,Emotional Impact,EI,5,,SCORING STORY S_05.md
+S_05,GPT-55,1,Thematic Depth,TD,5,,SCORING STORY S_05.md
+S_05,GPT-55,1,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,GPT-55,2,Literary Merit,LM,5,,SCORING STORY S_05.md
+S_05,GPT-55,2,Originality,O,4,,SCORING STORY S_05.md
+S_05,GPT-55,2,Emotional Impact,EI,5,,SCORING STORY S_05.md
+S_05,GPT-55,2,Thematic Depth,TD,5,,SCORING STORY S_05.md
+S_05,GPT-55,2,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,GPT-55,3,Literary Merit,LM,5,,SCORING STORY S_05.md
+S_05,GPT-55,3,Originality,O,3,,SCORING STORY S_05.md
+S_05,GPT-55,3,Emotional Impact,EI,5,,SCORING STORY S_05.md
+S_05,GPT-55,3,Thematic Depth,TD,4,,SCORING STORY S_05.md
+S_05,GPT-55,3,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,Grok-43,1,Literary Merit,LM,7,,SCORING STORY S_05.md
+S_05,Grok-43,1,Originality,O,5,,SCORING STORY S_05.md
+S_05,Grok-43,1,Emotional Impact,EI,7,,SCORING STORY S_05.md
+S_05,Grok-43,1,Thematic Depth,TD,6,,SCORING STORY S_05.md
+S_05,Grok-43,1,Structural Craft,SC,7,,SCORING STORY S_05.md
+S_05,Grok-43,2,Literary Merit,LM,7,,SCORING STORY S_05.md
+S_05,Grok-43,2,Originality,O,5,,SCORING STORY S_05.md
+S_05,Grok-43,2,Emotional Impact,EI,7,,SCORING STORY S_05.md
+S_05,Grok-43,2,Thematic Depth,TD,6,,SCORING STORY S_05.md
+S_05,Grok-43,2,Structural Craft,SC,8,,SCORING STORY S_05.md
+S_05,Grok-43,3,Literary Merit,LM,7,,SCORING STORY S_05.md
+S_05,Grok-43,3,Originality,O,5,,SCORING STORY S_05.md
+S_05,Grok-43,3,Emotional Impact,EI,6,,SCORING STORY S_05.md
+S_05,Grok-43,3,Thematic Depth,TD,6,,SCORING STORY S_05.md
+S_05,Grok-43,3,Structural Craft,SC,7,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,1,Literary Merit,LM,4,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,1,Originality,O,3,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,1,Emotional Impact,EI,4,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,1,Thematic Depth,TD,4,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,1,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,2,Literary Merit,LM,4,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,2,Originality,O,3,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,2,Emotional Impact,EI,4,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,2,Thematic Depth,TD,4,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,2,Structural Craft,SC,3,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,3,Literary Merit,LM,3,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,3,Originality,O,2,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,3,Emotional Impact,EI,3,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,3,Thematic Depth,TD,3,,SCORING STORY S_05.md
+S_05,Gemini-31-Pro,3,Structural Craft,SC,3,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,1,Literary Merit,LM,4,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,1,Originality,O,3,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,1,Emotional Impact,EI,4,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,1,Thematic Depth,TD,4,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,1,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,2,Literary Merit,LM,4,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,2,Originality,O,3,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,2,Emotional Impact,EI,4,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,2,Thematic Depth,TD,5,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,2,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,3,Literary Merit,LM,4,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,3,Originality,O,3,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,3,Emotional Impact,EI,4,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,3,Thematic Depth,TD,4,,SCORING STORY S_05.md
+S_05,Claude-Opus-47,3,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,Kimi-26,1,Literary Merit,LM,5,,SCORING STORY S_05.md
+S_05,Kimi-26,1,Originality,O,4,,SCORING STORY S_05.md
+S_05,Kimi-26,1,Emotional Impact,EI,6,,SCORING STORY S_05.md
+S_05,Kimi-26,1,Thematic Depth,TD,5,,SCORING STORY S_05.md
+S_05,Kimi-26,1,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,Kimi-26,2,Literary Merit,LM,5,,SCORING STORY S_05.md
+S_05,Kimi-26,2,Originality,O,4,,SCORING STORY S_05.md
+S_05,Kimi-26,2,Emotional Impact,EI,5,,SCORING STORY S_05.md
+S_05,Kimi-26,2,Thematic Depth,TD,5,,SCORING STORY S_05.md
+S_05,Kimi-26,2,Structural Craft,SC,5,,SCORING STORY S_05.md
+S_05,Kimi-26,3,Literary Merit,LM,5,,SCORING STORY S_05.md
+S_05,Kimi-26,3,Originality,O,3,,SCORING STORY S_05.md
+S_05,Kimi-26,3,Emotional Impact,EI,5,,SCORING STORY S_05.md
+S_05,Kimi-26,3,Thematic Depth,TD,4,,SCORING STORY S_05.md
+S_05,Kimi-26,3,Structural Craft,SC,4,,SCORING STORY S_05.md
+S_06,GPT-55,1,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,GPT-55,1,Originality,O,8,,SCORING STORY S_06.md
+S_06,GPT-55,1,Emotional Impact,EI,8,,SCORING STORY S_06.md
+S_06,GPT-55,1,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,GPT-55,1,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,GPT-55,2,Literary Merit,LM,8,,SCORING STORY S_06.md
+S_06,GPT-55,2,Originality,O,7,,SCORING STORY S_06.md
+S_06,GPT-55,2,Emotional Impact,EI,8,,SCORING STORY S_06.md
+S_06,GPT-55,2,Thematic Depth,TD,8,,SCORING STORY S_06.md
+S_06,GPT-55,2,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,GPT-55,3,Literary Merit,LM,8,,SCORING STORY S_06.md
+S_06,GPT-55,3,Originality,O,7,,SCORING STORY S_06.md
+S_06,GPT-55,3,Emotional Impact,EI,8,,SCORING STORY S_06.md
+S_06,GPT-55,3,Thematic Depth,TD,8,,SCORING STORY S_06.md
+S_06,GPT-55,3,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,Grok-43,1,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Grok-43,1,Originality,O,9,,SCORING STORY S_06.md
+S_06,Grok-43,1,Emotional Impact,EI,8,,SCORING STORY S_06.md
+S_06,Grok-43,1,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Grok-43,1,Structural Craft,SC,9,,SCORING STORY S_06.md
+S_06,Grok-43,2,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Grok-43,2,Originality,O,9,,SCORING STORY S_06.md
+S_06,Grok-43,2,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Grok-43,2,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Grok-43,2,Structural Craft,SC,9,,SCORING STORY S_06.md
+S_06,Grok-43,3,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Grok-43,3,Originality,O,9,,SCORING STORY S_06.md
+S_06,Grok-43,3,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Grok-43,3,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Grok-43,3,Structural Craft,SC,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,1,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,1,Originality,O,8,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,1,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,1,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,1,Structural Craft,SC,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,2,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,2,Originality,O,8,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,2,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,2,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,2,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,3,Literary Merit,LM,8,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,3,Originality,O,8,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,3,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,3,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Gemini-31-Pro,3,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,1,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,1,Originality,O,8,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,1,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,1,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,1,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,2,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,2,Originality,O,8,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,2,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,2,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,2,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,3,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,3,Originality,O,8,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,3,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,3,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Claude-Opus-47,3,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,Kimi-26,1,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Kimi-26,1,Originality,O,9,,SCORING STORY S_06.md
+S_06,Kimi-26,1,Emotional Impact,EI,10,,SCORING STORY S_06.md
+S_06,Kimi-26,1,Thematic Depth,TD,9,,SCORING STORY S_06.md
+S_06,Kimi-26,1,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_06,Kimi-26,2,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Kimi-26,2,Originality,O,9,,SCORING STORY S_06.md
+S_06,Kimi-26,2,Emotional Impact,EI,10,,SCORING STORY S_06.md
+S_06,Kimi-26,2,Thematic Depth,TD,10,,SCORING STORY S_06.md
+S_06,Kimi-26,2,Structural Craft,SC,9,,SCORING STORY S_06.md
+S_06,Kimi-26,3,Literary Merit,LM,9,,SCORING STORY S_06.md
+S_06,Kimi-26,3,Originality,O,9,,SCORING STORY S_06.md
+S_06,Kimi-26,3,Emotional Impact,EI,9,,SCORING STORY S_06.md
+S_06,Kimi-26,3,Thematic Depth,TD,10,,SCORING STORY S_06.md
+S_06,Kimi-26,3,Structural Craft,SC,8,,SCORING STORY S_06.md
+S_07,GPT-55,1,Literary Merit,LM,7,,SCORING STORY S_07.md
+S_07,GPT-55,1,Originality,O,5,,SCORING STORY S_07.md
+S_07,GPT-55,1,Emotional Impact,EI,6,,SCORING STORY S_07.md
+S_07,GPT-55,1,Thematic Depth,TD,6,,SCORING STORY S_07.md
+S_07,GPT-55,1,Structural Craft,SC,6,,SCORING STORY S_07.md
+S_07,GPT-55,2,Literary Merit,LM,7,,SCORING STORY S_07.md
+S_07,GPT-55,2,Originality,O,5,,SCORING STORY S_07.md
+S_07,GPT-55,2,Emotional Impact,EI,7,,SCORING STORY S_07.md
+S_07,GPT-55,2,Thematic Depth,TD,6,,SCORING STORY S_07.md
+S_07,GPT-55,2,Structural Craft,SC,7,,SCORING STORY S_07.md
+S_07,GPT-55,3,Literary Merit,LM,7,,SCORING STORY S_07.md
+S_07,GPT-55,3,Originality,O,6,,SCORING STORY S_07.md
+S_07,GPT-55,3,Emotional Impact,EI,7,,SCORING STORY S_07.md
+S_07,GPT-55,3,Thematic Depth,TD,7,,SCORING STORY S_07.md
+S_07,GPT-55,3,Structural Craft,SC,6,,SCORING STORY S_07.md
+S_07,Grok-43,1,Literary Merit,LM,9,,SCORING STORY S_07.md
+S_07,Grok-43,1,Originality,O,9,,SCORING STORY S_07.md
+S_07,Grok-43,1,Emotional Impact,EI,9,,SCORING STORY S_07.md
+S_07,Grok-43,1,Thematic Depth,TD,9,,SCORING STORY S_07.md
+S_07,Grok-43,1,Structural Craft,SC,9,,SCORING STORY S_07.md
+S_07,Grok-43,2,Literary Merit,LM,8,,SCORING STORY S_07.md
+S_07,Grok-43,2,Originality,O,8,,SCORING STORY S_07.md
+S_07,Grok-43,2,Emotional Impact,EI,8,,SCORING STORY S_07.md
+S_07,Grok-43,2,Thematic Depth,TD,8,,SCORING STORY S_07.md
+S_07,Grok-43,2,Structural Craft,SC,9,,SCORING STORY S_07.md
+S_07,Grok-43,3,Literary Merit,LM,9,,SCORING STORY S_07.md
+S_07,Grok-43,3,Originality,O,8,,SCORING STORY S_07.md
+S_07,Grok-43,3,Emotional Impact,EI,9,,SCORING STORY S_07.md
+S_07,Grok-43,3,Thematic Depth,TD,9,,SCORING STORY S_07.md
+S_07,Grok-43,3,Structural Craft,SC,9,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,1,Literary Merit,LM,7,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,1,Originality,O,6,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,1,Emotional Impact,EI,8,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,1,Thematic Depth,TD,7,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,1,Structural Craft,SC,7,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,2,Literary Merit,LM,8,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,2,Originality,O,7,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,2,Emotional Impact,EI,8,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,2,Thematic Depth,TD,8,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,2,Structural Craft,SC,8,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,3,Literary Merit,LM,8,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,3,Originality,O,6,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,3,Emotional Impact,EI,8,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,3,Thematic Depth,TD,7,,SCORING STORY S_07.md
+S_07,Gemini-31-Pro,3,Structural Craft,SC,8,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,1,Literary Merit,LM,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,1,Originality,O,4,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,1,Emotional Impact,EI,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,1,Thematic Depth,TD,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,1,Structural Craft,SC,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,2,Literary Merit,LM,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,2,Originality,O,4,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,2,Emotional Impact,EI,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,2,Thematic Depth,TD,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,2,Structural Craft,SC,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,3,Literary Merit,LM,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,3,Originality,O,4,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,3,Emotional Impact,EI,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,3,Thematic Depth,TD,5,,SCORING STORY S_07.md
+S_07,Claude-Opus-47,3,Structural Craft,SC,5,,SCORING STORY S_07.md
+S_07,Kimi-26,1,Literary Merit,LM,8,,SCORING STORY S_07.md
+S_07,Kimi-26,1,Originality,O,7,,SCORING STORY S_07.md
+S_07,Kimi-26,1,Emotional Impact,EI,8,,SCORING STORY S_07.md
+S_07,Kimi-26,1,Thematic Depth,TD,8,,SCORING STORY S_07.md
+S_07,Kimi-26,1,Structural Craft,SC,7,,SCORING STORY S_07.md
+S_07,Kimi-26,2,Literary Merit,LM,8,,SCORING STORY S_07.md
+S_07,Kimi-26,2,Originality,O,7,,SCORING STORY S_07.md
+S_07,Kimi-26,2,Emotional Impact,EI,9,,SCORING STORY S_07.md
+S_07,Kimi-26,2,Thematic Depth,TD,8,,SCORING STORY S_07.md
+S_07,Kimi-26,2,Structural Craft,SC,7,,SCORING STORY S_07.md
+S_07,Kimi-26,3,Literary Merit,LM,8,,SCORING STORY S_07.md
+S_07,Kimi-26,3,Originality,O,7,,SCORING STORY S_07.md
+S_07,Kimi-26,3,Emotional Impact,EI,9,,SCORING STORY S_07.md
+S_07,Kimi-26,3,Thematic Depth,TD,8,,SCORING STORY S_07.md
+S_07,Kimi-26,3,Structural Craft,SC,7,,SCORING STORY S_07.md
+S_08,GPT-55,1,Literary Merit,LM,5,,SCORING STORY S_08.md
+S_08,GPT-55,1,Originality,O,4,,SCORING STORY S_08.md
+S_08,GPT-55,1,Emotional Impact,EI,5,,SCORING STORY S_08.md
+S_08,GPT-55,1,Thematic Depth,TD,5,,SCORING STORY S_08.md
+S_08,GPT-55,1,Structural Craft,SC,5,,SCORING STORY S_08.md
+S_08,GPT-55,2,Literary Merit,LM,4,,SCORING STORY S_08.md
+S_08,GPT-55,2,Originality,O,3,,SCORING STORY S_08.md
+S_08,GPT-55,2,Emotional Impact,EI,4,,SCORING STORY S_08.md
+S_08,GPT-55,2,Thematic Depth,TD,5,,SCORING STORY S_08.md
+S_08,GPT-55,2,Structural Craft,SC,5,,SCORING STORY S_08.md
+S_08,GPT-55,3,Literary Merit,LM,5,,SCORING STORY S_08.md
+S_08,GPT-55,3,Originality,O,4,,SCORING STORY S_08.md
+S_08,GPT-55,3,Emotional Impact,EI,5,,SCORING STORY S_08.md
+S_08,GPT-55,3,Thematic Depth,TD,5,,SCORING STORY S_08.md
+S_08,GPT-55,3,Structural Craft,SC,5,,SCORING STORY S_08.md
+S_08,Grok-43,1,Literary Merit,LM,8,,SCORING STORY S_08.md
+S_08,Grok-43,1,Originality,O,8,,SCORING STORY S_08.md
+S_08,Grok-43,1,Emotional Impact,EI,7,,SCORING STORY S_08.md
+S_08,Grok-43,1,Thematic Depth,TD,8,,SCORING STORY S_08.md
+S_08,Grok-43,1,Structural Craft,SC,7,,SCORING STORY S_08.md
+S_08,Grok-43,2,Literary Merit,LM,7,,SCORING STORY S_08.md
+S_08,Grok-43,2,Originality,O,7,,SCORING STORY S_08.md
+S_08,Grok-43,2,Emotional Impact,EI,6,,SCORING STORY S_08.md
+S_08,Grok-43,2,Thematic Depth,TD,7,,SCORING STORY S_08.md
+S_08,Grok-43,2,Structural Craft,SC,6,,SCORING STORY S_08.md
+S_08,Grok-43,3,Literary Merit,LM,7,,SCORING STORY S_08.md
+S_08,Grok-43,3,Originality,O,6,,SCORING STORY S_08.md
+S_08,Grok-43,3,Emotional Impact,EI,6,,SCORING STORY S_08.md
+S_08,Grok-43,3,Thematic Depth,TD,8,,SCORING STORY S_08.md
+S_08,Grok-43,3,Structural Craft,SC,7,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,1,Literary Merit,LM,4,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,1,Originality,O,3,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,1,Emotional Impact,EI,4,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,1,Thematic Depth,TD,4,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,1,Structural Craft,SC,3,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,2,Literary Merit,LM,3,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,2,Originality,O,4,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,2,Emotional Impact,EI,3,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,2,Thematic Depth,TD,4,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,2,Structural Craft,SC,4,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,3,Literary Merit,LM,4,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,3,Originality,O,4,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,3,Emotional Impact,EI,5,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,3,Thematic Depth,TD,5,,SCORING STORY S_08.md
+S_08,Gemini-31-Pro,3,Structural Craft,SC,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,1,Literary Merit,LM,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,1,Originality,O,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,1,Emotional Impact,EI,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,1,Thematic Depth,TD,5,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,1,Structural Craft,SC,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,2,Literary Merit,LM,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,2,Originality,O,3,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,2,Emotional Impact,EI,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,2,Thematic Depth,TD,5,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,2,Structural Craft,SC,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,3,Literary Merit,LM,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,3,Originality,O,3,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,3,Emotional Impact,EI,4,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,3,Thematic Depth,TD,5,,SCORING STORY S_08.md
+S_08,Claude-Opus-47,3,Structural Craft,SC,4,,SCORING STORY S_08.md
+S_08,Kimi-26,1,Literary Merit,LM,7,,SCORING STORY S_08.md
+S_08,Kimi-26,1,Originality,O,6,,SCORING STORY S_08.md
+S_08,Kimi-26,1,Emotional Impact,EI,5,,SCORING STORY S_08.md
+S_08,Kimi-26,1,Thematic Depth,TD,6,,SCORING STORY S_08.md
+S_08,Kimi-26,1,Structural Craft,SC,5,,SCORING STORY S_08.md
+S_08,Kimi-26,2,Literary Merit,LM,7,,SCORING STORY S_08.md
+S_08,Kimi-26,2,Originality,O,5,,SCORING STORY S_08.md
+S_08,Kimi-26,2,Emotional Impact,EI,5,,SCORING STORY S_08.md
+S_08,Kimi-26,2,Thematic Depth,TD,6,,SCORING STORY S_08.md
+S_08,Kimi-26,2,Structural Craft,SC,4,,SCORING STORY S_08.md
+S_08,Kimi-26,3,Literary Merit,LM,7,,SCORING STORY S_08.md
+S_08,Kimi-26,3,Originality,O,5,,SCORING STORY S_08.md
+S_08,Kimi-26,3,Emotional Impact,EI,6,,SCORING STORY S_08.md
+S_08,Kimi-26,3,Thematic Depth,TD,6,,SCORING STORY S_08.md
+S_08,Kimi-26,3,Structural Craft,SC,5,,SCORING STORY S_08.md

@@ -1,0 +1,21 @@
+rid,category,language,label,story_id,generator,Literary Merit,Originality,Emotional Impact,Thematic Depth,Structural Craft,weighted,journal,detect
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,A,S_02,Opus 4.7,7,6,6,7,7,6.55,Accept with revisions,Probably yes
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,B,S_06,GPT-5.5,7,7,8,4,4,6.45,Accept,Probably yes
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,C,S_07,Opus 4,7,6,8,8,7,7.1,Accept with revisions,Uncertain
+1,Literary critic or scholar;Translator;Comparative-literature scholar,Polish,D,S_04,Grok 4.3,4,5,3,6,4,4.35,Reject,Yes
+2,Translator,Polish,A,S_02,Opus 4.7,3,5,2,1,1,2.8,Reject,Probably yes
+2,Translator,Polish,B,S_06,GPT-5.5,5,6,6,3,3,4.95,Accept with revisions,Probably yes
+2,Translator,Polish,C,S_07,Opus 4,8,6,4,5,7,6.15,Accept with revisions,Probably no
+2,Translator,Polish,D,S_04,Grok 4.3,3,4,3,3,1,3.05,Reject,Probably yes
+3,Literary critic or scholar,Czech,A,S_02,Opus 4.7,3,3,2,2,4,2.75,Reject,Yes
+3,Literary critic or scholar,Czech,B,S_06,GPT-5.5,4,5,6,2,2,4.15,Accept with revisions,Uncertain
+3,Literary critic or scholar,Czech,C,S_07,Opus 4,9,8,9,9,8,8.65,Accept,No
+3,Literary critic or scholar,Czech,D,S_04,Grok 4.3,7,6,6,5,5,6.05,Accept with revisions,Probably no
+4,"Creative writer (prose, poetry, or essays)",Czech,A,S_02,Opus 4.7,8,6,8,7,6,7.15,Accept,Probably yes
+4,"Creative writer (prose, poetry, or essays)",Czech,B,S_06,GPT-5.5,6,6,7,3,3,5.45,Accept,Probably yes
+4,"Creative writer (prose, poetry, or essays)",Czech,C,S_07,Opus 4,8,8,9,8,8,8.2,Accept,Uncertain
+4,"Creative writer (prose, poetry, or essays)",Czech,D,S_04,Grok 4.3,9,7,8,8,8,8.05,Accept,Uncertain
+5,Comparative-literature scholar,English,A,S_02,Opus 4.7,2,3,3,2,5,2.75,Reject,Probably yes
+5,Comparative-literature scholar,English,B,S_06,GPT-5.5,3,2,1,1,1,1.85,Reject,Probably yes
+5,Comparative-literature scholar,English,C,S_07,Opus 4,3,1,4,1,3,2.4,Reject,Uncertain
+5,Comparative-literature scholar,English,D,S_04,Grok 4.3,1,1,1,1,1,1.0,Reject,Yes
