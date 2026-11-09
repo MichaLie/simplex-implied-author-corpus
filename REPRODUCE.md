@@ -20,7 +20,7 @@ Run the steps in order (each script prints its headline numbers and writes CSVs 
 | 5 | `python3 analysis/level3_aggregate.py` | human-jury scores & comparison | S_07 6.50 > S_06 4.57 > S_04 4.50 > S_02 4.40; humans downgrade the LLM top tier (S_02 −3.98, S_06 −4.09; bootstrap CIs exclude 0) |
 | 6 | `python3 analysis/story_style_metrics.py` | surface style metrics for all eight stories | mean words/sentence: S_03 42.5 · S_04 41.3 · S_02 38.3 · S_01 30.5 · S_08 20.4 · S_05 15.2 · S_07 12.3 · S_06 8.7 |
 | 7 | `python3 analysis/sensitivity_analyses.py` | robustness checks reported in the supplement (printed and saved to `analysis/sensitivity_summary.txt`) | attractor's gender/multilingual/outsider components hold without the Gemini subset (the 2018 component weakens); S_07 is first under every single-reader exclusion; the lower three ranks reorder in each |
-| 8 | `python3 figures/build_figures.py` (then `python3 figures/build_fig8_human_vs_llm.py`, `python3 figures/build_fig9_convergence_specimen.py`) | paper figures | PNGs match `figures/` |
+| 8 | `python3 figures/build_fig1_workflow.py` and `python3 figures/build_fig2_specimen.py` (the article's two figures), then `python3 figures/build_figures.py` (then `python3 figures/build_fig8_human_vs_llm.py`, `python3 figures/build_fig9_convergence_specimen.py`) | paper figures | PNGs match `figures/` |
 
 Freshly generated CSVs can be compared against the checked-in copies in `analysis/expected_outputs/` (identical to within ~1e-16 floating-point differences in the last digits of κ). Steps 3–4 also write two run logs (`level2_extraction_log.md`, `level2_stats_report.md`) that have no reference copies; they and the regenerated CSVs are git-ignored.
 

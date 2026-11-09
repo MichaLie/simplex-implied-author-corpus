@@ -89,7 +89,3 @@ The deterministic rule is rule-compliant; Borda count also gives S_07 over S_01 
 Both audit reports filed at `feedback/v2_consultation/`.
 
 — end —
-
----
-
-**Postscript (9 November 2026).** Section 2 above states that each of the 120 evaluations was produced in a fresh chat session. That statement is incorrect: the three repetitions per juror and story were regenerated answers to the same message within one chat per juror and story, as were the control replicates. No repetition could see another, so the intent of the plan was met; the wording was not followed. The article's Supplementary Methods (S2, S4, S7) record this.

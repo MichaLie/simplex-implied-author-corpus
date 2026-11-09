@@ -15,7 +15,3 @@ Per project policy, the locked pre-registration files are preserved unedited; co
 **What does not change:** No statistic, coding, or analysis depends on the Run 1 date or on the inter-run interval. The cross-temporal comparison (R1 vs R2) is unaffected; the interval is ~10 months rather than ~12. The submitted abstract's phrase "repeated a year apart" is retained as prose approximation; the manuscript's Methods now carry the exact months (July 2025, May 2026).
 
 **Author action:** M.L. to confirm the July 2025 dating against her own vendor chat histories (the Claude/Gemini/Grok Run 1 URLs do not embed decodable timestamps; the GPT legs and the Grok-4 release constraint are the hard evidence).
-
----
-
-**Postscript (20 August 2026).** The lead author confirmed the July 2025 dating of Run 1 against her own vendor chat histories; the records throughout the repository carry July 2025.

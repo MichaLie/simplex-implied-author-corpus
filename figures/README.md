@@ -13,3 +13,6 @@ All figures regenerate deterministically (`build_figures.py` for figures 1–7, 
 | `fig7_affordance_heatmap.png` | Trait intensity across pipeline stages (prompt → reports → personas → stories) |
 | `fig8_human_vs_llm.png` | Human jury vs. LLM jury on the four shared stories |
 | `fig9_convergence_specimen.png` | Side-by-side persona specimens: the cross-vendor convergence at a glance |
+
+- `build_fig1_workflow.py` → `fig1_workflow.png/.pdf`: the article's Figure 1, the SIMPLEX workflow as a typographic plate.
+- `build_fig2_specimen.py` → `fig2_specimen.png/.pdf`: the article's Figure 2, the four second-run personas whose stories went to the juries and the names of the 24 control personas (all data hard-coded from `corpus/index.csv` and the persona files).
