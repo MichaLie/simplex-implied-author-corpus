@@ -1,0 +1,5 @@
+juror,own_story,own_title,delta_preregistered,delta_vintage_matched,others_delta_on_own_story,difference_in_differences
+Claude-Opus-47,S_02,"Birthälm, in November",3.44,2.78,1.32,1.46
+GPT-55,S_06,The Drawer for Returned Names,2.45,2.2,1.94,0.26
+Gemini-31-Pro,S_03,The Diffusion Gradient,1.64,0.86,-0.93,1.78
+Grok-43,S_04,The Verb That Refused to Conjugate,0.32,-0.26,-3.73,3.47

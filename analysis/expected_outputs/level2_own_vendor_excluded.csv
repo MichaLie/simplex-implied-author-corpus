@@ -1,0 +1,9 @@
+story_id,title,vendor,run,mean_all_jurors,mean_without_own_vendor,z_mean_without_own_vendor,outsider_mean
+S_06,The Drawer for Returned Names,GPT,R2,8.66,8.83,1.33,9.17
+S_02,"Birthälm, in November",Claude,R2,8.38,8.36,1.04,8.55
+S_07,The Translator's Hands,Claude,R1,6.97,7.53,0.52,7.78
+S_01,The Palimpsest of Winter,Gemini,R1,6.9,6.7,0.13,7.02
+S_03,The Diffusion Gradient,Gemini,R2,6.74,6.48,-0.02,6.73
+S_08,The Weight of Unspoken Tongues,Grok,R1,5.04,4.55,-0.9,5.87
+S_04,The Verb That Refused to Conjugate,Grok,R2,4.89,4.03,-1.22,5.4
+S_05,Echoes at Twilight,GPT,R1,4.56,4.57,-1.44,4.65

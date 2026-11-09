@@ -52,7 +52,7 @@ coding/     rubric (definitions & decision rules) · coded data, both coders · 
 juries/     llm/ (juror prompt, blinded stories, 120 evaluations in 8 per-story files) · human/ (form spec, anonymized responses)
 analysis/   scripts that regenerate every reported number (scores & stats CSVs land here) · expected_outputs/
 figures/    paper figures + build scripts
-docs/       pre-registration + dated corrections & addenda · verification record
+docs/       pre-registration with its dated addenda and corrections
 ```
 
 ## Licensing & citation

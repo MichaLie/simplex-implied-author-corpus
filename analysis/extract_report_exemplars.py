@@ -54,7 +54,7 @@ WRITERS = [
     ("Chekhov", r"\bChekhov\b", "M", "EE_Balkan", "master"),
     ("Sebald", r"\bSebald\b", "M", "Western_EU", "master"),  # German-born, wrote in German, lived/worked in England — most scholars classify as Western_EU not EE_Balkan
     ("Krasznahorkai", r"Krasznahorkai", "M", "EE_Balkan", "master"),
-    ("Bernhard", r"\bBernhard\b", "M", "Western_EU", "master"),  # Austrian, German-language — corrected 2026-08-20, see docs/EXTRACTION_CORRECTIONS_2026-08-20.md
+    ("Bernhard", r"\bBernhard\b", "M", "Western_EU", "master"),  # Austrian, German-language
     ("Andrić", r"Andri[ćc]", "M", "EE_Balkan", "master"),
     ("Saul Bellow", r"\bBellow\b", "M", "N_American", "master"),  # born Quebec, raised Chicago — corrected 2026-08-20
     ("Bruno Schulz", r"\bSchulz\b", "M", "EE_Balkan", "master"),
@@ -74,7 +74,7 @@ WRITERS = [
     ("Fitzgerald", r"(?<!Penelope\s)\bFitzgerald\b", "M", "N_American", "master"),  # F. Scott — lookbehind excludes Penelope Fitzgerald
     ("Melville", r"\bMelville\b", "M", "N_American", "master"),
     ("Thompson", r"\bHunter (S\.|Stockton)? ?Thompson\b", "M", "N_American", "master"),
-    ("Saunders", r"\bSaunders\b", "M", "N_American", "comparison"),  # Audit: George Saunders is in the comparison cohort of R1_Gemini25; included as exemplar of intuitive-revision in R1_Opus4 but role is genuinely mixed
+    ("Saunders", r"\bSaunders\b", "M", "N_American", "comparison"),  # Note: George Saunders is in the comparison cohort of R1_Gemini25; included as exemplar of intuitive-revision in R1_Opus4 but role is genuinely mixed
     ("Pynchon", r"\bPynchon\b", "M", "N_American", "master"),
     ("Kerouac", r"\bKerouac\b", "M", "N_American", "master"),
     ("E.B. White", r"\bE\.? ?B\.? ?White\b", "M", "N_American", "master"),
@@ -94,14 +94,14 @@ WRITERS = [
     # --- FEMALE MASTERS ---
     # African diaspora
     ("Morrison", r"\bMorrison\b", "F", "African_dia", "master"),
-    ("Jesmyn Ward", r"Jesmyn Ward|\bWard\b(?!,)", "F", "African_dia", "comparison"),  # Audit: explicitly in comparison cohort of R1_Gemini25
+    ("Jesmyn Ward", r"Jesmyn Ward|\bWard\b(?!,)", "F", "African_dia", "comparison"),  # Note: explicitly in comparison cohort of R1_Gemini25
     # Western European
     ("Woolf", r"\bWoolf\b", "F", "Western_EU", "master"),
     ("Austen", r"\bAusten\b", "F", "Western_EU", "master"),
     ("Penelope Fitzgerald", r"Penelope Fitzgerald", "F", "Western_EU", "master"),
     ("Frank McCourt", r"Frank McCourt|\bMcCourt\b", "M", "N_American", "master"),
     ("Selma Lagerlöf", r"Lagerl[öo]f", "F", "Western_EU", "master"),
-    ("Sally Rooney", r"Sally Rooney|\bRooney\b", "F", "Western_EU", "comparison"),  # Audit: explicitly in comparison cohort of R1_Gemini25
+    ("Sally Rooney", r"Sally Rooney|\bRooney\b", "F", "Western_EU", "comparison"),  # Note: explicitly in comparison cohort of R1_Gemini25
     ("Yourcenar", r"Yourcenar", "F", "Western_EU", "master"),
     ("Annie Ernaux", r"Ernaux", "F", "Western_EU", "master"),
     ("Edith Södergran", r"S[öo]dergran", "F", "Western_EU", "master"),
@@ -112,7 +112,7 @@ WRITERS = [
     ("Le Guin", r"Le Guin", "F", "N_American", "master"),
     ("Bishop", r"\bBishop\b", "F", "N_American", "master"),  # Elizabeth Bishop
     ("Munro", r"\bMunro\b", "F", "N_American", "master"),  # Alice Munro
-    ("Lauren Groff", r"Groff", "F", "N_American", "comparison"),  # Audit: explicitly in comparison cohort of R1_Gemini25
+    ("Lauren Groff", r"Groff", "F", "N_American", "comparison"),  # Note: explicitly in comparison cohort of R1_Gemini25
     # EE
     ("Tokarczuk", r"Tokarczuk", "F", "EE_Balkan", "master"),
     ("Müller", r"Herta M[üu]ller|\bM[üu]ller\b", "F", "EE_Balkan", "master"),
@@ -121,7 +121,7 @@ WRITERS = [
     ("Akhmatova", r"Akhmatova", "F", "EE_Balkan", "master"),
     # Asian / diaspora
     ("Han Kang", r"Han Kang", "F", "E_Asian", "master"),
-    ("Min Jin Lee", r"Min Jin Lee", "F", "E_Asian", "comparison"),  # Audit: explicitly in comparison cohort of R1_Gemini25
+    ("Min Jin Lee", r"Min Jin Lee", "F", "E_Asian", "comparison"),  # Note: explicitly in comparison cohort of R1_Gemini25
     # Latin American
     ("Clarice Lispector", r"Lispector", "F", "Latin_AmA", "master"),
 
@@ -165,7 +165,7 @@ def strip_bibliography(text):
     """Remove the works-cited / references section so writer names buried in
     citation URLs and author lists do not create false positives.
 
-    Audit finding (May 2026): J.M. Coetzee was scored as present in R2_GPT55
+    Note (May 2026): J.M. Coetzee was scored as present in R2_GPT55
     because his name appears in citation #70 of the bibliography ('Lydia Davis
     and J. M. Coetzee — Taylor & Francis'), but never in the analysis body.
     Similar risk for other writers cited only in academic references.
