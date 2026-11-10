@@ -3,12 +3,12 @@
 level3_aggregate.py — Level 3 human-expert jury aggregation + comparison to the
 Level 2 LLM jury.
 
-Reads the Google-Forms export (juries/human/responses_anonymized.csv),
+Reads the anonymized form export (juries/human/responses_anonymized.csv),
 de-blinds Story A/B/C/D -> canonical S_XX via the internal story key, computes per-story human
 weighted means (using the same 5-criterion weights as Level 2), and lines them up against the
 LLM jury means in analysis/level2_summary.csv.
 
-Special focus (the two diagnostic anchor stories):
+Two stories get a closer look:
   - Story D = S_04 (Grok 4.3): LLM-jury self-preference probe. Does the human panel side with
     the 4-juror LLM consensus (low) or with Grok's own 8.33 (high)?
   - Story C = S_07 (Opus 4): LLM jury was lukewarm/divided. Do humans rank it higher?
@@ -56,34 +56,33 @@ KEY = {
 }
 
 # --- CSV column layout (0-indexed, verified against header) -----------------
-COL_META = {"category": 1, "language": 2, "experience": 3}
+COL_META = {"category": 1, "language": 2}
 # per label: 5 criteria cols, then journal-decision, ai-detection, reflection
 COL = {
-    "A": {"crit": [4, 5, 6, 7, 8],     "journal": 9,  "detect": 10, "reflect": 11},
-    "B": {"crit": [12, 13, 14, 15, 16], "journal": 17, "detect": 18, "reflect": 19},
-    "C": {"crit": [20, 21, 22, 23, 24], "journal": 25, "detect": 26, "reflect": 27},
-    "D": {"crit": [28, 29, 30, 31, 32], "journal": 33, "detect": 34, "reflect": 35},
+    "A": {"crit": [3, 4, 5, 6, 7],      "journal": 8,  "detect": 9,  "reflect": 10},
+    "B": {"crit": [11, 12, 13, 14, 15], "journal": 16, "detect": 17, "reflect": 18},
+    "C": {"crit": [19, 20, 21, 22, 23], "journal": 24, "detect": 25, "reflect": 26},
+    "D": {"crit": [27, 28, 29, 30, 31], "journal": 32, "detect": 33, "reflect": 34},
 }
 
 EXPECTED_HEADER_STARTS = {
     0: "Timestamp",
     1: "You are:",
     2: "Your primary working language",
-    3: "Approximate years of experience",
-    4: "Story A — Literary Merit",
-    5: "Story A — Originality",
-    6: "Story A — Emotional Impact",
-    7: "Story A — Thematic Depth",
-    8: "Story A — Structural Craft",
-    12: "Story B — Literary Merit",
-    20: "Story C — Literary Merit",
-    28: "Story D — Literary Merit",
+    3: "Story A — Literary Merit",
+    4: "Story A — Originality",
+    5: "Story A — Emotional Impact",
+    6: "Story A — Thematic Depth",
+    7: "Story A — Structural Craft",
+    11: "Story B — Literary Merit",
+    19: "Story C — Literary Merit",
+    27: "Story D — Literary Merit",
 }
 
 
 def validate_header(header):
-    if len(header) < 36:
-        raise ValueError(f"Expected at least 36 columns in form export; found {len(header)}")
+    if len(header) < 35:
+        raise ValueError(f"Expected at least 35 columns in form export; found {len(header)}")
     for idx, expected in EXPECTED_HEADER_STARTS.items():
         if not header[idx].startswith(expected):
             raise ValueError(
@@ -166,7 +165,6 @@ def load_human():
             resp = {"rid": i + 1, "timestamp": raw[0],
                     "category": raw[COL_META["category"]],
                     "language": raw[COL_META["language"]],
-                    "experience": raw[COL_META["experience"]],
                     "stories": {}}
             for lab in LABELS:
                 c = COL[lab]
@@ -339,7 +337,7 @@ def main():
     print(f"\nLEVEL 3 HUMAN-EXPERT JURY  (n = {n} respondents)\n" + "=" * 78)
     print("Respondents:")
     for h in humans:
-        print(f"  R{h['rid']}: {h['category'][:45]:45s} | {h['language']:8s} | exp={h['experience']}")
+        print(f"  R{h['rid']}: {h['category'][:45]:45s} | {h['language']:8s}")
 
     print("\nPER-STORY: human weighted mean vs LLM jury weighted mean")
     print("-" * 78)
