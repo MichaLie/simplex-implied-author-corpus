@@ -1,8 +1,15 @@
-# figures/ — the paper's figures
+# figures/ — figures and build scripts
 
-All figures regenerate deterministically (`build_figures.py` for figures 1–7, plus the two dedicated scripts; random elements are seeded). Figures 1, 4, 5, 6, 7 and 8 read the analysis CSVs directly. Figures 2, 3 and 9 are drawn from values transcribed into the scripts rather than read at run time — the values were checked against the coded data, but these three will not track a change in the underlying files.
+The article prints two figures:
 
-| Figure | Shows |
+- `build_fig1_workflow.py` → `fig1_workflow.png/.pdf`: the article's Figure 1, the SIMPLEX workflow as a typographic plate.
+- `build_fig2_specimen.py` → `fig2_specimen.png/.pdf`: the article's Figure 2, the four second-run personas whose stories went to the juries and the names of the 24 control personas (all data hard-coded from `corpus/index.csv` and the persona files).
+
+The nine charts below plot the same data and are not printed in the article. Their file names, and the captions drawn inside some of them, carry this folder's own numbering (`fig1`–`fig9`), which is unrelated to the article's Figures 1 and 2.
+
+All charts regenerate deterministically (`build_figures.py` for charts 1–7, plus the two dedicated scripts; random elements are seeded). Charts 1, 4, 5, 6, 7 and 8 read the analysis CSVs directly. Charts 2, 3 and 9 are drawn from values transcribed into the scripts rather than read at run time — the values were checked against the coded data, but these three will not track a change in the underlying files.
+
+| Chart | Shows |
 |---|---|
 | `fig1_pipeline.png` | The SIMPLEX workflow: three commissioning phases, two runs, controls, and the two jury layers |
 | `fig2_asymmetry.png` | What the theoretical scaffold names vs. what the model completions add (the reports-to-personas asymmetry) |
@@ -13,6 +20,3 @@ All figures regenerate deterministically (`build_figures.py` for figures 1–7, 
 | `fig7_affordance_heatmap.png` | Trait intensity across pipeline stages (prompt → reports → personas → stories) |
 | `fig8_human_vs_llm.png` | Human jury vs. LLM jury on the four shared stories |
 | `fig9_convergence_specimen.png` | Side-by-side persona specimens: the cross-vendor convergence at a glance |
-
-- `build_fig1_workflow.py` → `fig1_workflow.png/.pdf`: the article's Figure 1, the SIMPLEX workflow as a typographic plate.
-- `build_fig2_specimen.py` → `fig2_specimen.png/.pdf`: the article's Figure 2, the four second-run personas whose stories went to the juries and the names of the 24 control personas (all data hard-coded from `corpus/index.csv` and the persona files).
